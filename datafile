@@ -1,0 +1,980 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="HandheldFriendly" content="false" />
+<meta http-equiv="Expires" content="0" />
+<title>2020 Provincial General Election Preliminary Voting Results</title>
+<link href="electionresults.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="wrapper">
+  <div id="wrapper2">
+    <div id="header">
+      <div id="logo"></div>
+      <div id="title">2020 Provincial General Election<BR>Preliminary Voting Results</div>
+      <div id="topbluebar">
+        <ul class="navlist">
+          <li><a href="https://electionsbcenr.blob.core.windows.net/electionsbcenr/GE-2020-10-24.html" class="navlist">Home</a></li>
+          <li class="navlist"><a href="GE-2020-10-24_Candidate.html" class="navlist">Election Results by Candidate</a></li>
+          <li class="navlist"><a href="GE-2020-10-24_Party.html" class="navlist">Election Results by Party</a></li>
+        </ul>
+      </div>
+    </div>
+   <div id="content">
+      <p>The following are preliminary voting results from initial count. Read about <A title="Click here for information defining initial count" href="https://electionsbcenr.blob.core.windows.net/electionsbcenr/initial_count.pdf"
+  target="_blank">initial count</A>.</p>
+      <p>Final voting results will be available after final count. The timing of final count will be announced as soon as possible following the completion of initial count. Read about <A title="Click here for information defining final count" href="https://electionsbcenr.blob.core.windows.net/electionsbcenr/final_count.pdf"
+  target="_blank">final count</A>.</p>
+  <p>During preparation for final count, district electoral officers will confirm voting results and certification envelope counts from absentee and vote-by-mail voting that was reported during initial count. Adjustments may be made to accurately reflect election night results, and the screening of certification envelopes. Results will not be finalized until final count is completed.</p>
+                  <br />
+      <div style="width:780px;">
+      <div id="datestamp"><strong>As of October 25, 2020 1:58 a.m.</strong></div>
+   	  </div>
+      <div id="maincontent">
+      <table width="100%">
+        <colgroup>
+       	 <col id="prov_edname" />
+            <col id="prov_ballotboxesreported" />
+            <col id="prov_1" />
+            <col id="prov_2" />
+            <col id="prov_3" />
+            <col id="prov_4" />
+            <col id="prov_other" />
+            <col id="prov_totalvalidvotes" />
+        </colgroup>
+        <thead>
+          <tr>
+            <th>Electoral District</th>
+            <th>Ballot Boxes Reported</th>
+            <th>LIB</th>
+            <th>NDP</th>
+            <th>GP</th>
+            <th>LBN</th>
+            <th>OTHER</th>
+            <th>Total Valid<br />Votes</th>
+          </tr>
+        </thead>
+     <tbody>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Abbotsford-Mission.html">Abbotsford-Mission</a></td>
+            <td>98 of 98</td>
+            <td>7,075</td>
+            <td>6,887</td>
+            <td>1,869</td>
+            <td>0</td>
+            <td>2,151</td>
+            <td>17,982</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Abbotsford South.html">Abbotsford South</a></td>
+            <td>101 of 101</td>
+            <td>7,244</td>
+            <td>5,125</td>
+            <td>1,840</td>
+            <td>0</td>
+            <td>1,439</td>
+            <td>15,648</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Abbotsford West.html">Abbotsford West</a></td>
+            <td>89 of 89</td>
+            <td>6,715</td>
+            <td>4,911</td>
+            <td>1,128</td>
+            <td>0</td>
+            <td>1,463</td>
+            <td>14,217</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Boundary-Similkameen.html">Boundary-Similkameen</a></td>
+            <td>92 of 98</td>
+            <td>5,773</td>
+            <td>7,529</td>
+            <td>0</td>
+            <td>0</td>
+            <td>2,370</td>
+            <td>15,672</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Burnaby-Deer Lake.html">Burnaby-Deer Lake</a></td>
+            <td>83 of 83</td>
+            <td>3,275</td>
+            <td>5,558</td>
+            <td>1,244</td>
+            <td>0</td>
+            <td>0</td>
+            <td>10,077</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Burnaby-Edmonds.html">Burnaby-Edmonds</a></td>
+            <td>73 of 73</td>
+            <td>3,072</td>
+            <td>6,861</td>
+            <td>1,270</td>
+            <td>0</td>
+            <td>0</td>
+            <td>11,203</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Burnaby-Lougheed.html">Burnaby-Lougheed</a></td>
+            <td>110 of 110</td>
+            <td>3,559</td>
+            <td>7,669</td>
+            <td>1,737</td>
+            <td>240</td>
+            <td>0</td>
+            <td>13,205</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Burnaby North.html">Burnaby North</a></td>
+            <td>95 of 95</td>
+            <td>4,119</td>
+            <td>7,410</td>
+            <td>1,611</td>
+            <td>0</td>
+            <td>0</td>
+            <td>13,140</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Cariboo-Chilcotin.html">Cariboo-Chilcotin</a></td>
+            <td>70 of 70</td>
+            <td>5,262</td>
+            <td>3,168</td>
+            <td>1,035</td>
+            <td>227</td>
+            <td>392</td>
+            <td>10,084</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Cariboo North.html">Cariboo North</a></td>
+            <td>55 of 55</td>
+            <td>4,503</td>
+            <td>2,972</td>
+            <td>586</td>
+            <td>0</td>
+            <td>1,052</td>
+            <td>9,113</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Chilliwack.html">Chilliwack</a></td>
+            <td>82 of 82</td>
+            <td>3,511</td>
+            <td>4,575</td>
+            <td>1,294</td>
+            <td>144</td>
+            <td>2,394</td>
+            <td>11,918</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Chilliwack-Kent.html">Chilliwack-Kent</a></td>
+            <td>89 of 89</td>
+            <td>5,004</td>
+            <td>5,199</td>
+            <td>1,326</td>
+            <td>239</td>
+            <td>3,842</td>
+            <td>15,610</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Columbia River-Revelstoke.html">Columbia River-Revelstoke</a></td>
+            <td>77 of 77</td>
+            <td>5,770</td>
+            <td>4,551</td>
+            <td>1,546</td>
+            <td>0</td>
+            <td>0</td>
+            <td>11,867</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Coquitlam-Burke Mountain.html">Coquitlam-Burke Mountain</a></td>
+            <td>88 of 88</td>
+            <td>5,398</td>
+            <td>7,665</td>
+            <td>1,357</td>
+            <td>0</td>
+            <td>0</td>
+            <td>14,420</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Coquitlam-Maillardville.html">Coquitlam-Maillardville</a></td>
+            <td>94 of 94</td>
+            <td>3,894</td>
+            <td>7,580</td>
+            <td>1,588</td>
+            <td>0</td>
+            <td>0</td>
+            <td>13,062</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Courtenay-Comox.html">Courtenay-Comox</a></td>
+            <td>105 of 105</td>
+            <td>5,414</td>
+            <td>8,454</td>
+            <td>3,771</td>
+            <td>0</td>
+            <td>0</td>
+            <td>17,639</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Cowichan Valley.html">Cowichan Valley</a></td>
+            <td>100 of 100</td>
+            <td>3,032</td>
+            <td>7,550</td>
+            <td>8,631</td>
+            <td>0</td>
+            <td>0</td>
+            <td>19,213</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Delta North.html">Delta North</a></td>
+            <td>80 of 80</td>
+            <td>5,356</td>
+            <td>8,486</td>
+            <td>1,520</td>
+            <td>0</td>
+            <td>0</td>
+            <td>15,362</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Delta South.html">Delta South</a></td>
+            <td>92 of 92</td>
+            <td>8,644</td>
+            <td>5,358</td>
+            <td>2,487</td>
+            <td>0</td>
+            <td>0</td>
+            <td>16,489</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Esquimalt-Metchosin.html">Esquimalt-Metchosin</a></td>
+            <td>79 of 79</td>
+            <td>2,276</td>
+            <td>8,279</td>
+            <td>3,816</td>
+            <td>0</td>
+            <td>197</td>
+            <td>14,568</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Fraser-Nicola.html">Fraser-Nicola</a></td>
+            <td>94 of 94</td>
+            <td>4,703</td>
+            <td>4,318</td>
+            <td>1,419</td>
+            <td>0</td>
+            <td>673</td>
+            <td>11,113</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Kamloops-North Thompson.html">Kamloops-North Thompson</a></td>
+            <td>107 of 107</td>
+            <td>7,028</td>
+            <td>6,237</td>
+            <td>1,657</td>
+            <td>0</td>
+            <td>1,686</td>
+            <td>16,608</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Kamloops-South Thompson.html">Kamloops-South Thompson</a></td>
+            <td>97 of 97</td>
+            <td>9,574</td>
+            <td>5,569</td>
+            <td>3,054</td>
+            <td>0</td>
+            <td>0</td>
+            <td>18,197</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Kelowna-Lake Country.html">Kelowna-Lake Country</a></td>
+            <td>116 of 116</td>
+            <td>9,548</td>
+            <td>4,399</td>
+            <td>2,476</td>
+            <td>407</td>
+            <td>152</td>
+            <td>16,982</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Kelowna-Mission.html">Kelowna-Mission</a></td>
+            <td>113 of 113</td>
+            <td>9,234</td>
+            <td>5,335</td>
+            <td>3,189</td>
+            <td>0</td>
+            <td>0</td>
+            <td>17,758</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Kelowna West.html">Kelowna West</a></td>
+            <td>112 of 112</td>
+            <td>9,033</td>
+            <td>5,697</td>
+            <td>2,322</td>
+            <td>369</td>
+            <td>353</td>
+            <td>17,774</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Kootenay East.html">Kootenay East</a></td>
+            <td>86 of 86</td>
+            <td>8,270</td>
+            <td>4,170</td>
+            <td>1,410</td>
+            <td>0</td>
+            <td>0</td>
+            <td>13,850</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Kootenay West.html">Kootenay West</a></td>
+            <td>64 of 87</td>
+            <td>1,162</td>
+            <td>5,718</td>
+            <td>1,862</td>
+            <td>0</td>
+            <td>1,196</td>
+            <td>9,938</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Langford-Juan de Fuca.html">Langford-Juan de Fuca</a></td>
+            <td>79 of 79</td>
+            <td>2,521</td>
+            <td>10,302</td>
+            <td>2,842</td>
+            <td>0</td>
+            <td>90</td>
+            <td>15,755</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Langley.html">Langley</a></td>
+            <td>91 of 91</td>
+            <td>5,040</td>
+            <td>6,460</td>
+            <td>1,583</td>
+            <td>0</td>
+            <td>1,392</td>
+            <td>14,475</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Langley East.html">Langley East</a></td>
+            <td>111 of 111</td>
+            <td>7,144</td>
+            <td>7,937</td>
+            <td>2,393</td>
+            <td>190</td>
+            <td>2,805</td>
+            <td>20,469</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Maple Ridge-Mission.html">Maple Ridge-Mission</a></td>
+            <td>107 of 107</td>
+            <td>6,388</td>
+            <td>9,693</td>
+            <td>2,057</td>
+            <td>0</td>
+            <td>0</td>
+            <td>18,138</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Maple Ridge-Pitt Meadows.html">Maple Ridge-Pitt Meadows</a></td>
+            <td>98 of 98</td>
+            <td>6,523</td>
+            <td>10,231</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td>16,754</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Mid Island-Pacific Rim.html">Mid Island-Pacific Rim</a></td>
+            <td>99 of 99</td>
+            <td>3,111</td>
+            <td>10,071</td>
+            <td>3,785</td>
+            <td>345</td>
+            <td>494</td>
+            <td>17,806</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Nanaimo.html">Nanaimo</a></td>
+            <td>106 of 106</td>
+            <td>3,498</td>
+            <td>8,041</td>
+            <td>3,705</td>
+            <td>0</td>
+            <td>0</td>
+            <td>15,244</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Nanaimo-North Cowichan.html">Nanaimo-North Cowichan</a></td>
+            <td>94 of 94</td>
+            <td>3,554</td>
+            <td>7,856</td>
+            <td>5,228</td>
+            <td>0</td>
+            <td>0</td>
+            <td>16,638</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Nechako Lakes.html">Nechako Lakes</a></td>
+            <td>83 of 83</td>
+            <td>4,120</td>
+            <td>2,594</td>
+            <td>0</td>
+            <td>376</td>
+            <td>729</td>
+            <td>7,819</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Nelson-Creston.html">Nelson-Creston</a></td>
+            <td>77 of 77</td>
+            <td>3,335</td>
+            <td>5,377</td>
+            <td>4,443</td>
+            <td>335</td>
+            <td>0</td>
+            <td>13,490</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_New Westminster.html">New Westminster</a></td>
+            <td>100 of 100</td>
+            <td>2,515</td>
+            <td>9,176</td>
+            <td>3,049</td>
+            <td>198</td>
+            <td>647</td>
+            <td>15,585</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_North Coast.html">North Coast</a></td>
+            <td>46 of 46</td>
+            <td>1,218</td>
+            <td>3,894</td>
+            <td>0</td>
+            <td>238</td>
+            <td>0</td>
+            <td>5,350</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_North Island.html">North Island</a></td>
+            <td>101 of 101</td>
+            <td>3,931</td>
+            <td>7,666</td>
+            <td>3,285</td>
+            <td>0</td>
+            <td>1,121</td>
+            <td>16,003</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_North Vancouver-Lonsdale.html">North Vancouver-Lonsdale</a></td>
+            <td>92 of 92</td>
+            <td>4,662</td>
+            <td>9,533</td>
+            <td>2,211</td>
+            <td>0</td>
+            <td>0</td>
+            <td>16,406</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_North Vancouver-Seymour.html">North Vancouver-Seymour</a></td>
+            <td>107 of 107</td>
+            <td>5,804</td>
+            <td>7,353</td>
+            <td>2,917</td>
+            <td>215</td>
+            <td>0</td>
+            <td>16,289</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Oak Bay-Gordon Head.html">Oak Bay-Gordon Head</a></td>
+            <td>95 of 95</td>
+            <td>3,400</td>
+            <td>6,834</td>
+            <td>4,046</td>
+            <td>0</td>
+            <td>78</td>
+            <td>14,358</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Parksville-Qualicum.html">Parksville-Qualicum</a></td>
+            <td>116 of 116</td>
+            <td>6,366</td>
+            <td>7,308</td>
+            <td>3,319</td>
+            <td>0</td>
+            <td>1,377</td>
+            <td>18,370</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Peace River North.html">Peace River North</a></td>
+            <td>72 of 72</td>
+            <td>5,902</td>
+            <td>899</td>
+            <td>0</td>
+            <td>0</td>
+            <td>3,679</td>
+            <td>10,480</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Peace River South.html">Peace River South</a></td>
+            <td>56 of 56</td>
+            <td>3,215</td>
+            <td>892</td>
+            <td>0</td>
+            <td>0</td>
+            <td>2,132</td>
+            <td>6,239</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Penticton.html">Penticton</a></td>
+            <td>129 of 129</td>
+            <td>9,137</td>
+            <td>6,472</td>
+            <td>2,187</td>
+            <td>558</td>
+            <td>0</td>
+            <td>18,354</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Port Coquitlam.html">Port Coquitlam</a></td>
+            <td>103 of 103</td>
+            <td>3,312</td>
+            <td>9,399</td>
+            <td>1,927</td>
+            <td>477</td>
+            <td>0</td>
+            <td>15,115</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Port Moody-Coquitlam.html">Port Moody-Coquitlam</a></td>
+            <td>90 of 90</td>
+            <td>4,407</td>
+            <td>6,936</td>
+            <td>1,718</td>
+            <td>103</td>
+            <td>583</td>
+            <td>13,747</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Powell River-Sunshine Coast.html">Powell River-Sunshine Coast</a></td>
+            <td>100 of 100</td>
+            <td>2,811</td>
+            <td>7,719</td>
+            <td>5,541</td>
+            <td>0</td>
+            <td>0</td>
+            <td>16,071</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Prince George-Mackenzie.html">Prince George-Mackenzie</a></td>
+            <td>82 of 82</td>
+            <td>6,361</td>
+            <td>3,874</td>
+            <td>1,406</td>
+            <td>233</td>
+            <td>281</td>
+            <td>12,155</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Prince George-Valemount.html">Prince George-Valemount</a></td>
+            <td>88 of 88</td>
+            <td>7,560</td>
+            <td>3,477</td>
+            <td>1,987</td>
+            <td>374</td>
+            <td>0</td>
+            <td>13,398</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Richmond North Centre.html">Richmond North Centre</a></td>
+            <td>71 of 71</td>
+            <td>4,523</td>
+            <td>3,557</td>
+            <td>840</td>
+            <td>0</td>
+            <td>0</td>
+            <td>8,920</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Richmond-Queensborough.html">Richmond-Queensborough</a></td>
+            <td>87 of 87</td>
+            <td>5,343</td>
+            <td>6,275</td>
+            <td>1,071</td>
+            <td>0</td>
+            <td>852</td>
+            <td>13,541</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Richmond South Centre.html">Richmond South Centre</a></td>
+            <td>76 of 76</td>
+            <td>4,063</td>
+            <td>4,187</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td>8,250</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Richmond-Steveston.html">Richmond-Steveston</a></td>
+            <td>84 of 84</td>
+            <td>5,866</td>
+            <td>6,462</td>
+            <td>0</td>
+            <td>0</td>
+            <td>375</td>
+            <td>12,703</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Saanich North and the Islands.html">Saanich North and the Islands</a></td>
+            <td>117 of 117</td>
+            <td>3,757</td>
+            <td>5,385</td>
+            <td>10,726</td>
+            <td>0</td>
+            <td>0</td>
+            <td>19,868</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Saanich South.html">Saanich South</a></td>
+            <td>92 of 92</td>
+            <td>3,622</td>
+            <td>7,642</td>
+            <td>3,113</td>
+            <td>0</td>
+            <td>0</td>
+            <td>14,377</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Shuswap.html">Shuswap</a></td>
+            <td>108 of 108</td>
+            <td>10,547</td>
+            <td>6,298</td>
+            <td>2,995</td>
+            <td>0</td>
+            <td>0</td>
+            <td>19,840</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Skeena.html">Skeena</a></td>
+            <td>61 of 61</td>
+            <td>4,824</td>
+            <td>3,900</td>
+            <td>0</td>
+            <td>0</td>
+            <td>347</td>
+            <td>9,071</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Stikine.html">Stikine</a></td>
+            <td>50 of 50</td>
+            <td>1,597</td>
+            <td>2,959</td>
+            <td>0</td>
+            <td>0</td>
+            <td>1,396</td>
+            <td>5,952</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Surrey-Cloverdale.html">Surrey-Cloverdale</a></td>
+            <td>108 of 108</td>
+            <td>5,672</td>
+            <td>7,915</td>
+            <td>1,415</td>
+            <td>0</td>
+            <td>783</td>
+            <td>15,785</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Surrey-Fleetwood.html">Surrey-Fleetwood</a></td>
+            <td>93 of 93</td>
+            <td>4,189</td>
+            <td>7,695</td>
+            <td>1,116</td>
+            <td>0</td>
+            <td>0</td>
+            <td>13,000</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Surrey-Green Timbers.html">Surrey-Green Timbers</a></td>
+            <td>62 of 62</td>
+            <td>4,456</td>
+            <td>5,589</td>
+            <td>0</td>
+            <td>0</td>
+            <td>0</td>
+            <td>10,045</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Surrey-Guildford.html">Surrey-Guildford</a></td>
+            <td>81 of 81</td>
+            <td>3,486</td>
+            <td>6,866</td>
+            <td>895</td>
+            <td>0</td>
+            <td>247</td>
+            <td>11,494</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Surrey-Newton.html">Surrey-Newton</a></td>
+            <td>62 of 62</td>
+            <td>2,814</td>
+            <td>5,830</td>
+            <td>1,026</td>
+            <td>0</td>
+            <td>0</td>
+            <td>9,670</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Surrey-Panorama.html">Surrey-Panorama</a></td>
+            <td>84 of 84</td>
+            <td>6,655</td>
+            <td>7,967</td>
+            <td>0</td>
+            <td>0</td>
+            <td>352</td>
+            <td>14,974</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Surrey South.html">Surrey South</a></td>
+            <td>99 of 99</td>
+            <td>7,945</td>
+            <td>6,728</td>
+            <td>1,630</td>
+            <td>0</td>
+            <td>0</td>
+            <td>16,303</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Surrey-Whalley.html">Surrey-Whalley</a></td>
+            <td>85 of 85</td>
+            <td>3,019</td>
+            <td>7,430</td>
+            <td>0</td>
+            <td>0</td>
+            <td>351</td>
+            <td>10,800</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Surrey-White Rock.html">Surrey-White Rock</a></td>
+            <td>109 of 109</td>
+            <td>6,840</td>
+            <td>6,111</td>
+            <td>2,495</td>
+            <td>349</td>
+            <td>1,108</td>
+            <td>16,903</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Vancouver-Fairview.html">Vancouver-Fairview</a></td>
+            <td>106 of 106</td>
+            <td>3,833</td>
+            <td>7,090</td>
+            <td>2,391</td>
+            <td>159</td>
+            <td>0</td>
+            <td>13,473</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Vancouver-False Creek.html">Vancouver-False Creek</a></td>
+            <td>111 of 111</td>
+            <td>4,512</td>
+            <td>5,295</td>
+            <td>1,577</td>
+            <td>222</td>
+            <td>324</td>
+            <td>11,930</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Vancouver-Fraserview.html">Vancouver-Fraserview</a></td>
+            <td>100 of 100</td>
+            <td>4,429</td>
+            <td>7,010</td>
+            <td>1,144</td>
+            <td>0</td>
+            <td>0</td>
+            <td>12,583</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Vancouver-Hastings.html">Vancouver-Hastings</a></td>
+            <td>92 of 92</td>
+            <td>2,320</td>
+            <td>7,253</td>
+            <td>2,607</td>
+            <td>265</td>
+            <td>126</td>
+            <td>12,571</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Vancouver-Kensington.html">Vancouver-Kensington</a></td>
+            <td>76 of 76</td>
+            <td>3,222</td>
+            <td>7,364</td>
+            <td>1,610</td>
+            <td>0</td>
+            <td>157</td>
+            <td>12,353</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Vancouver-Kingsway.html">Vancouver-Kingsway</a></td>
+            <td>91 of 91</td>
+            <td>2,354</td>
+            <td>7,245</td>
+            <td>1,005</td>
+            <td>214</td>
+            <td>0</td>
+            <td>10,818</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Vancouver-Langara.html">Vancouver-Langara</a></td>
+            <td>82 of 82</td>
+            <td>5,356</td>
+            <td>4,709</td>
+            <td>1,083</td>
+            <td>167</td>
+            <td>0</td>
+            <td>11,315</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Vancouver-Mount Pleasant.html">Vancouver-Mount Pleasant</a></td>
+            <td>99 of 99</td>
+            <td>1,604</td>
+            <td>7,278</td>
+            <td>2,457</td>
+            <td>0</td>
+            <td>0</td>
+            <td>11,339</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Vancouver-Point Grey.html">Vancouver-Point Grey</a></td>
+            <td>90 of 90</td>
+            <td>4,428</td>
+            <td>6,201</td>
+            <td>2,347</td>
+            <td>0</td>
+            <td>0</td>
+            <td>12,976</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Vancouver-Quilchena.html">Vancouver-Quilchena</a></td>
+            <td>71 of 71</td>
+            <td>6,549</td>
+            <td>3,056</td>
+            <td>1,847</td>
+            <td>0</td>
+            <td>0</td>
+            <td>11,452</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Vancouver-West End.html">Vancouver-West End</a></td>
+            <td>86 of 86</td>
+            <td>2,338</td>
+            <td>6,477</td>
+            <td>1,897</td>
+            <td>201</td>
+            <td>0</td>
+            <td>10,913</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Vernon-Monashee.html">Vernon-Monashee</a></td>
+            <td>121 of 121</td>
+            <td>6,798</td>
+            <td>6,618</td>
+            <td>3,146</td>
+            <td>0</td>
+            <td>2,830</td>
+            <td>19,392</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Victoria-Beacon Hill.html">Victoria-Beacon Hill</a></td>
+            <td>117 of 117</td>
+            <td>1,980</td>
+            <td>6,852</td>
+            <td>4,655</td>
+            <td>0</td>
+            <td>187</td>
+            <td>13,674</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_Victoria-Swan Lake.html">Victoria-Swan Lake</a></td>
+            <td>112 of 112</td>
+            <td>1,550</td>
+            <td>7,192</td>
+            <td>3,831</td>
+            <td>0</td>
+            <td>245</td>
+            <td>12,818</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_West Vancouver-Capilano.html">West Vancouver-Capilano</a></td>
+            <td>88 of 88</td>
+            <td>7,700</td>
+            <td>4,114</td>
+            <td>2,309</td>
+            <td>0</td>
+            <td>140</td>
+            <td>14,263</td>
+        </tr>
+          <tr>
+            <td><a href="ed/GE-2020-10-24_West Vancouver-Sea to Sky.html">West Vancouver-Sea to Sky</a></td>
+            <td>106 of 106</td>
+            <td>6,415</td>
+            <td>4,309</td>
+            <td>7,019</td>
+            <td>0</td>
+            <td>0</td>
+            <td>17,743</td>
+        </tr>
+      </tbody>
+      <tfoot>
+          <tr>
+            <td class="prov_totals">Provincial Total</td>
+            <td class="prov_totals">7,940 of 7,969</td>
+            <td class="prov_totals">427,889</td>
+            <td class="prov_totals">544,083</td>
+            <td class="prov_totals">184,921</td>
+            <td class="prov_totals">6,845</td>
+            <td class="prov_totals">44,588</td>
+            <td class="prov_totals">1,208,326</td>
+        </tr>
+        <tr>
+            <td colspan="2" class="prov_totals">% of Popular Vote</td>
+            <td class="prov_totals">35.41%</td>
+            <td class="prov_totals">45.03%</td>
+            <td class="prov_totals">15.30%</td>
+            <td class="prov_totals">0.57%</td>
+            <td class="prov_totals">3.69%</td>
+            <td class="prov_totals">&nbsp;</td>
+          </tr>
+          <tr>
+            <td colspan="2" class="lowerheaders">&nbsp;</td>
+            <td class="lowerheaders">LIB</td>
+            <td class="lowerheaders">NDP</td>
+            <td class="lowerheaders">GP</td>
+            <td class="lowerheaders">LBN</td>
+            <td class="lowerheaders">OTHER</td>
+            <td class="lowerheaders">&nbsp;</td>
+          </tr>
+        </tfoot>
+      </table>
+
+      <div id="Div1"><strong>As of October 25, 2020 1:58 a.m.</strong></div>
+  </div>
+  <strong>List of Political Party Abbreviations</strong><br />
+  <p>Parties are listed in alphabetical order by party name.</p>
+       <ul style="list-style-type:none">
+                    <li><strong>LIB</strong> - BC Liberal Party</li>
+          <li><strong>NDP</strong> - BC NDP</li>
+          <li><strong>GP</strong> - BC Green Party</li>
+          <li><strong>LBN</strong> - Libertarian</li>
+          <li><strong>OTHER</strong> - Parties not listed individually are grouped in the &quot;OTHER&quot; category above.&nbsp;
+B.C. Vision, Christian Heritage Party of B.C., Communist Party of BC, Conservative, Rural BC Party, Wexit BC. The "OTHER" category also includes Independent candidates.</li>
+       </ul>
+    </div>
+    <div id="footer"></div>
+  </div>
+</div>
+</body>
+</html>
