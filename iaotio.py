@@ -3,8 +3,12 @@ from bs4 import BeautifulSoup
 import locale
 import random
 import copy
+import logging
 
 locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
+logging.basicConfig(format='%(asctime)s %(message)s',
+                    datefmt='%Y-%m-%d %H:%M:%S ',
+                    level=logging.INFO)
 
 UNCOUNTED_BALLOTS = 600000  # absentee/mail-in ballots, est. from Elections BC
 NUM_TRIALS = 1000  # number of trials per electoral district
@@ -67,6 +71,7 @@ f = open('output.txt','w')
 
 for ibias in BIAS:
     for i in range(len(districts)):
+        logging.info(districts[i]+' @ bias='+str(ibias))
         iwinner = max(range(len(vote_parties_electionday[i])),key = vote_parties_electionday[i].__getitem__)
         out_list = assign_votes(parties, vote_parties_electionday[i],
                                 num_ballots_absentee[i],ibias)
