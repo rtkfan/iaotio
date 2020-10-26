@@ -1,3 +1,4 @@
+bias	electoral_district	election_night_leader	final_winner	flip_prob
 -0.1	Abbotsford-Mission	LIB	NDP	1.0
 -0.1	Abbotsford South	LIB	NDP	1.0
 -0.1	Abbotsford West	LIB	NDP	1.0
