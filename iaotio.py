@@ -45,7 +45,7 @@ def assign_votes(party_list, split_electionday, num_votes, party_bias=0):
 # -----------------------------------------------------------------------------
 
 # use cached results ----------------------------------------------------------
-with open('./datafile', 'r') as fread:
+with open('./data/datafile', 'r') as fread:
     pagetext = fread.read()
 
 soup = BeautifulSoup(pagetext, 'html.parser')
@@ -70,6 +70,10 @@ num_ballots_absentee = [int(UNCOUNTED_BALLOTS*i)
 
 f = open('output.txt', 'w')
 
+print('bias', 'electoral_district', 'election_night_leader', 'final_winner',
+      'flip_prob', 'prob_lib', 'prob_ndp', 'prob_grn', 'prob_lbn',
+      'prob_other', sep='\t', file=f)  # hard-code the header row
+
 for ibias in BIAS:
     for i in range(len(districts)):
         logging.info(districts[i]+' @ bias='+str(ibias))
@@ -79,5 +83,8 @@ for ibias in BIAS:
                                 num_ballots_absentee[i], ibias)
         new_winner = max(range(len(out_list)), key=out_list.__getitem__)
         print(ibias, districts[i], parties[iwinner], parties[new_winner],
-              (NUM_TRIALS-out_list[iwinner])/NUM_TRIALS, sep='\t',
-              file=f)
+              (NUM_TRIALS-out_list[iwinner])/NUM_TRIALS,
+              out_list[0]/NUM_TRIALS, out_list[1]/NUM_TRIALS,
+              out_list[2]/NUM_TRIALS, out_list[3]/NUM_TRIALS,
+              out_list[4]/NUM_TRIALS,
+              sep='\t', file=f)
