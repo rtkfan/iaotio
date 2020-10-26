@@ -11,7 +11,7 @@ logging.basicConfig(format='%(asctime)s %(message)s',
                     level=logging.INFO)
 
 UNCOUNTED_BALLOTS = 600000  # absentee/mail-in ballots, est. from Elections BC
-NUM_TRIALS = 2000  # number of trials per electoral district
+NUM_TRIALS = 1000  # number of trials per electoral district
 BIAS = [-0.1, -0.09, -0.08, -0.07, -0.06, -0.05, -0.04, -0.03, -0.02, -0.01,
         0, 0.01, 0.02, 0.03, 0.04, 0.05, 0.06, 0.07, 0.08, 0.09, 0.1]
 # bias (+ is toward BC Libs, - is toward BC NDP)
@@ -28,7 +28,7 @@ def assign_votes(party_list, split_electionday, num_votes, party_bias=0):
         votelist = random.choices(party_list, split_adjusted, k=num_votes)
         split_absentee = [len(list(filter(lambda x: x == p, votelist)))
                           for p in party_list]
-        split_total = [sum(x) for x in zip(split_adjusted, split_absentee)]
+        split_total = [sum(x) for x in zip(split_electionday, split_absentee)]
         winner = max(range(len(split_total)), key=split_total.__getitem__)
         outlist[winner] += 1
     return outlist
