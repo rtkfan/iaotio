@@ -30,7 +30,7 @@
   <p>During preparation for final count, district electoral officers will confirm voting results and certification envelope counts from absentee and vote-by-mail voting that was reported during initial count. Adjustments may be made to accurately reflect election night results, and the screening of certification envelopes. Results will not be finalized until final count is completed.</p>
                   <br />
       <div style="width:780px;">
-      <div id="datestamp"><strong>As of October 25, 2020 1:58 a.m.</strong></div>
+      <div id="datestamp"><strong>As of October 25, 2020 4:37 p.m.</strong></div>
    	  </div>
       <div id="maincontent">
       <table width="100%">
@@ -89,13 +89,13 @@
         </tr>
           <tr>
             <td><a href="ed/GE-2020-10-24_Boundary-Similkameen.html">Boundary-Similkameen</a></td>
-            <td>92 of 98</td>
-            <td>5,773</td>
-            <td>7,529</td>
+            <td>98 of 98</td>
+            <td>5,913</td>
+            <td>7,772</td>
             <td>0</td>
             <td>0</td>
-            <td>2,370</td>
-            <td>15,672</td>
+            <td>2,434</td>
+            <td>16,119</td>
         </tr>
           <tr>
             <td><a href="ed/GE-2020-10-24_Burnaby-Deer Lake.html">Burnaby-Deer Lake</a></td>
@@ -329,13 +329,13 @@
         </tr>
           <tr>
             <td><a href="ed/GE-2020-10-24_Kootenay West.html">Kootenay West</a></td>
-            <td>64 of 87</td>
-            <td>1,162</td>
-            <td>5,718</td>
-            <td>1,862</td>
+            <td>87 of 87</td>
+            <td>1,610</td>
+            <td>8,234</td>
+            <td>2,440</td>
             <td>0</td>
-            <td>1,196</td>
-            <td>9,938</td>
+            <td>1,603</td>
+            <td>13,887</td>
         </tr>
           <tr>
             <td><a href="ed/GE-2020-10-24_Langford-Juan de Fuca.html">Langford-Juan de Fuca</a></td>
@@ -931,21 +931,21 @@
       <tfoot>
           <tr>
             <td class="prov_totals">Provincial Total</td>
-            <td class="prov_totals">7,940 of 7,969</td>
-            <td class="prov_totals">427,889</td>
-            <td class="prov_totals">544,083</td>
-            <td class="prov_totals">184,921</td>
+            <td class="prov_totals">7,969 of 7,969</td>
+            <td class="prov_totals">428,477</td>
+            <td class="prov_totals">546,842</td>
+            <td class="prov_totals">185,499</td>
             <td class="prov_totals">6,845</td>
-            <td class="prov_totals">44,588</td>
-            <td class="prov_totals">1,208,326</td>
+            <td class="prov_totals">45,059</td>
+            <td class="prov_totals">1,212,722</td>
         </tr>
         <tr>
             <td colspan="2" class="prov_totals">% of Popular Vote</td>
-            <td class="prov_totals">35.41%</td>
-            <td class="prov_totals">45.03%</td>
+            <td class="prov_totals">35.33%</td>
+            <td class="prov_totals">45.09%</td>
             <td class="prov_totals">15.30%</td>
-            <td class="prov_totals">0.57%</td>
-            <td class="prov_totals">3.69%</td>
+            <td class="prov_totals">0.56%</td>
+            <td class="prov_totals">3.72%</td>
             <td class="prov_totals">&nbsp;</td>
           </tr>
           <tr>
@@ -960,7 +960,7 @@
         </tfoot>
       </table>
 
-      <div id="Div1"><strong>As of October 25, 2020 1:58 a.m.</strong></div>
+      <div id="Div1"><strong>As of October 25, 2020 4:37 p.m.</strong></div>
   </div>
   <strong>List of Political Party Abbreviations</strong><br />
   <p>Parties are listed in alphabetical order by party name.</p>
