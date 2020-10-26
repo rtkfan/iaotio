@@ -1,0 +1,1828 @@
+bias	electoral_district	election_night_leader	final_winner	flip_prob
+-0.1	Abbotsford-Mission	LIB	NDP	1.0
+-0.1	Abbotsford South	LIB	NDP	1.0
+-0.1	Abbotsford West	LIB	NDP	1.0
+-0.1	Boundary-Similkameen	NDP	NDP	0.0
+-0.1	Burnaby-Deer Lake	NDP	NDP	0.0
+-0.1	Burnaby-Edmonds	NDP	NDP	0.0
+-0.1	Burnaby-Lougheed	NDP	NDP	0.0
+-0.1	Burnaby North	NDP	NDP	0.0
+-0.1	Cariboo-Chilcotin	LIB	LIB	0.043
+-0.1	Cariboo North	LIB	NDP	1.0
+-0.1	Chilliwack	NDP	NDP	0.0
+-0.1	Chilliwack-Kent	NDP	NDP	0.0
+-0.1	Columbia River-Revelstoke	LIB	NDP	1.0
+-0.1	Coquitlam-Burke Mountain	NDP	NDP	0.0
+-0.1	Coquitlam-Maillardville	NDP	NDP	0.0
+-0.1	Courtenay-Comox	NDP	NDP	0.0
+-0.1	Cowichan Valley	GP	NDP	1.0
+-0.1	Delta North	NDP	NDP	0.0
+-0.1	Delta South	LIB	NDP	0.572
+-0.1	Esquimalt-Metchosin	NDP	NDP	0.0
+-0.1	Fraser-Nicola	LIB	NDP	1.0
+-0.1	Kamloops-North Thompson	LIB	NDP	1.0
+-0.1	Kamloops-South Thompson	LIB	LIB	0.0
+-0.1	Kelowna-Lake Country	LIB	LIB	0.0
+-0.1	Kelowna-Mission	LIB	LIB	0.0
+-0.1	Kelowna West	LIB	NDP	1.0
+-0.1	Kootenay East	LIB	LIB	0.0
+-0.1	Kootenay West	NDP	NDP	0.0
+-0.1	Langford-Juan de Fuca	NDP	NDP	0.0
+-0.1	Langley	NDP	NDP	0.0
+-0.1	Langley East	NDP	NDP	0.0
+-0.1	Maple Ridge-Mission	NDP	NDP	0.0
+-0.1	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+-0.1	Mid Island-Pacific Rim	NDP	NDP	0.0
+-0.1	Nanaimo	NDP	NDP	0.0
+-0.1	Nanaimo-North Cowichan	NDP	NDP	0.0
+-0.1	Nechako Lakes	LIB	NDP	0.843
+-0.1	Nelson-Creston	NDP	NDP	0.0
+-0.1	New Westminster	NDP	NDP	0.0
+-0.1	North Coast	NDP	NDP	0.0
+-0.1	North Island	NDP	NDP	0.0
+-0.1	North Vancouver-Lonsdale	NDP	NDP	0.0
+-0.1	North Vancouver-Seymour	NDP	NDP	0.0
+-0.1	Oak Bay-Gordon Head	NDP	NDP	0.0
+-0.1	Parksville-Qualicum	NDP	NDP	0.0
+-0.1	Peace River North	LIB	LIB	0.0
+-0.1	Peace River South	LIB	LIB	0.0
+-0.1	Penticton	LIB	NDP	1.0
+-0.1	Port Coquitlam	NDP	NDP	0.0
+-0.1	Port Moody-Coquitlam	NDP	NDP	0.0
+-0.1	Powell River-Sunshine Coast	NDP	NDP	0.0
+-0.1	Prince George-Mackenzie	LIB	LIB	0.11
+-0.1	Prince George-Valemount	LIB	LIB	0.0
+-0.1	Richmond North Centre	LIB	NDP	1.0
+-0.1	Richmond-Queensborough	NDP	NDP	0.0
+-0.1	Richmond South Centre	NDP	NDP	0.0
+-0.1	Richmond-Steveston	NDP	NDP	0.0
+-0.1	Saanich North and the Islands	GP	GP	0.0
+-0.1	Saanich South	NDP	NDP	0.0
+-0.1	Shuswap	LIB	LIB	0.0
+-0.1	Skeena	LIB	NDP	1.0
+-0.1	Stikine	NDP	NDP	0.0
+-0.1	Surrey-Cloverdale	NDP	NDP	0.0
+-0.1	Surrey-Fleetwood	NDP	NDP	0.0
+-0.1	Surrey-Green Timbers	NDP	NDP	0.0
+-0.1	Surrey-Guildford	NDP	NDP	0.0
+-0.1	Surrey-Newton	NDP	NDP	0.0
+-0.1	Surrey-Panorama	NDP	NDP	0.0
+-0.1	Surrey South	LIB	NDP	1.0
+-0.1	Surrey-Whalley	NDP	NDP	0.0
+-0.1	Surrey-White Rock	LIB	NDP	1.0
+-0.1	Vancouver-Fairview	NDP	NDP	0.0
+-0.1	Vancouver-False Creek	NDP	NDP	0.0
+-0.1	Vancouver-Fraserview	NDP	NDP	0.0
+-0.1	Vancouver-Hastings	NDP	NDP	0.0
+-0.1	Vancouver-Kensington	NDP	NDP	0.0
+-0.1	Vancouver-Kingsway	NDP	NDP	0.0
+-0.1	Vancouver-Langara	LIB	NDP	1.0
+-0.1	Vancouver-Mount Pleasant	NDP	NDP	0.0
+-0.1	Vancouver-Point Grey	NDP	NDP	0.0
+-0.1	Vancouver-Quilchena	LIB	LIB	0.0
+-0.1	Vancouver-West End	NDP	NDP	0.0
+-0.1	Vernon-Monashee	LIB	NDP	1.0
+-0.1	Victoria-Beacon Hill	NDP	NDP	0.0
+-0.1	Victoria-Swan Lake	NDP	NDP	0.0
+-0.1	West Vancouver-Capilano	LIB	LIB	0.0
+-0.1	West Vancouver-Sea to Sky	GP	GP	0.0
+-0.09	Abbotsford-Mission	LIB	NDP	1.0
+-0.09	Abbotsford South	LIB	NDP	1.0
+-0.09	Abbotsford West	LIB	NDP	1.0
+-0.09	Boundary-Similkameen	NDP	NDP	0.0
+-0.09	Burnaby-Deer Lake	NDP	NDP	0.0
+-0.09	Burnaby-Edmonds	NDP	NDP	0.0
+-0.09	Burnaby-Lougheed	NDP	NDP	0.0
+-0.09	Burnaby North	NDP	NDP	0.0
+-0.09	Cariboo-Chilcotin	LIB	LIB	0.0
+-0.09	Cariboo North	LIB	NDP	0.997
+-0.09	Chilliwack	NDP	NDP	0.0
+-0.09	Chilliwack-Kent	NDP	NDP	0.0
+-0.09	Columbia River-Revelstoke	LIB	NDP	1.0
+-0.09	Coquitlam-Burke Mountain	NDP	NDP	0.0
+-0.09	Coquitlam-Maillardville	NDP	NDP	0.0
+-0.09	Courtenay-Comox	NDP	NDP	0.0
+-0.09	Cowichan Valley	GP	NDP	1.0
+-0.09	Delta North	NDP	NDP	0.0
+-0.09	Delta South	LIB	LIB	0.0
+-0.09	Esquimalt-Metchosin	NDP	NDP	0.0
+-0.09	Fraser-Nicola	LIB	NDP	1.0
+-0.09	Kamloops-North Thompson	LIB	NDP	1.0
+-0.09	Kamloops-South Thompson	LIB	LIB	0.0
+-0.09	Kelowna-Lake Country	LIB	LIB	0.0
+-0.09	Kelowna-Mission	LIB	LIB	0.0
+-0.09	Kelowna West	LIB	LIB	0.013
+-0.09	Kootenay East	LIB	LIB	0.0
+-0.09	Kootenay West	NDP	NDP	0.0
+-0.09	Langford-Juan de Fuca	NDP	NDP	0.0
+-0.09	Langley	NDP	NDP	0.0
+-0.09	Langley East	NDP	NDP	0.0
+-0.09	Maple Ridge-Mission	NDP	NDP	0.0
+-0.09	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+-0.09	Mid Island-Pacific Rim	NDP	NDP	0.0
+-0.09	Nanaimo	NDP	NDP	0.0
+-0.09	Nanaimo-North Cowichan	NDP	NDP	0.0
+-0.09	Nechako Lakes	LIB	LIB	0.0
+-0.09	Nelson-Creston	NDP	NDP	0.0
+-0.09	New Westminster	NDP	NDP	0.0
+-0.09	North Coast	NDP	NDP	0.0
+-0.09	North Island	NDP	NDP	0.0
+-0.09	North Vancouver-Lonsdale	NDP	NDP	0.0
+-0.09	North Vancouver-Seymour	NDP	NDP	0.0
+-0.09	Oak Bay-Gordon Head	NDP	NDP	0.0
+-0.09	Parksville-Qualicum	NDP	NDP	0.0
+-0.09	Peace River North	LIB	LIB	0.0
+-0.09	Peace River South	LIB	LIB	0.0
+-0.09	Penticton	LIB	NDP	1.0
+-0.09	Port Coquitlam	NDP	NDP	0.0
+-0.09	Port Moody-Coquitlam	NDP	NDP	0.0
+-0.09	Powell River-Sunshine Coast	NDP	NDP	0.0
+-0.09	Prince George-Mackenzie	LIB	LIB	0.0
+-0.09	Prince George-Valemount	LIB	LIB	0.0
+-0.09	Richmond North Centre	LIB	NDP	1.0
+-0.09	Richmond-Queensborough	NDP	NDP	0.0
+-0.09	Richmond South Centre	NDP	NDP	0.0
+-0.09	Richmond-Steveston	NDP	NDP	0.0
+-0.09	Saanich North and the Islands	GP	GP	0.0
+-0.09	Saanich South	NDP	NDP	0.0
+-0.09	Shuswap	LIB	LIB	0.0
+-0.09	Skeena	LIB	NDP	1.0
+-0.09	Stikine	NDP	NDP	0.0
+-0.09	Surrey-Cloverdale	NDP	NDP	0.0
+-0.09	Surrey-Fleetwood	NDP	NDP	0.0
+-0.09	Surrey-Green Timbers	NDP	NDP	0.0
+-0.09	Surrey-Guildford	NDP	NDP	0.0
+-0.09	Surrey-Newton	NDP	NDP	0.0
+-0.09	Surrey-Panorama	NDP	NDP	0.0
+-0.09	Surrey South	LIB	NDP	1.0
+-0.09	Surrey-Whalley	NDP	NDP	0.0
+-0.09	Surrey-White Rock	LIB	NDP	1.0
+-0.09	Vancouver-Fairview	NDP	NDP	0.0
+-0.09	Vancouver-False Creek	NDP	NDP	0.0
+-0.09	Vancouver-Fraserview	NDP	NDP	0.0
+-0.09	Vancouver-Hastings	NDP	NDP	0.0
+-0.09	Vancouver-Kensington	NDP	NDP	0.0
+-0.09	Vancouver-Kingsway	NDP	NDP	0.0
+-0.09	Vancouver-Langara	LIB	NDP	1.0
+-0.09	Vancouver-Mount Pleasant	NDP	NDP	0.0
+-0.09	Vancouver-Point Grey	NDP	NDP	0.0
+-0.09	Vancouver-Quilchena	LIB	LIB	0.0
+-0.09	Vancouver-West End	NDP	NDP	0.0
+-0.09	Vernon-Monashee	LIB	NDP	1.0
+-0.09	Victoria-Beacon Hill	NDP	NDP	0.0
+-0.09	Victoria-Swan Lake	NDP	NDP	0.0
+-0.09	West Vancouver-Capilano	LIB	LIB	0.0
+-0.09	West Vancouver-Sea to Sky	GP	GP	0.0
+-0.08	Abbotsford-Mission	LIB	NDP	1.0
+-0.08	Abbotsford South	LIB	NDP	1.0
+-0.08	Abbotsford West	LIB	NDP	1.0
+-0.08	Boundary-Similkameen	NDP	NDP	0.0
+-0.08	Burnaby-Deer Lake	NDP	NDP	0.0
+-0.08	Burnaby-Edmonds	NDP	NDP	0.0
+-0.08	Burnaby-Lougheed	NDP	NDP	0.0
+-0.08	Burnaby North	NDP	NDP	0.0
+-0.08	Cariboo-Chilcotin	LIB	LIB	0.0
+-0.08	Cariboo North	LIB	LIB	0.029
+-0.08	Chilliwack	NDP	NDP	0.0
+-0.08	Chilliwack-Kent	NDP	NDP	0.0
+-0.08	Columbia River-Revelstoke	LIB	NDP	1.0
+-0.08	Coquitlam-Burke Mountain	NDP	NDP	0.0
+-0.08	Coquitlam-Maillardville	NDP	NDP	0.0
+-0.08	Courtenay-Comox	NDP	NDP	0.0
+-0.08	Cowichan Valley	GP	NDP	1.0
+-0.08	Delta North	NDP	NDP	0.0
+-0.08	Delta South	LIB	LIB	0.0
+-0.08	Esquimalt-Metchosin	NDP	NDP	0.0
+-0.08	Fraser-Nicola	LIB	NDP	1.0
+-0.08	Kamloops-North Thompson	LIB	NDP	1.0
+-0.08	Kamloops-South Thompson	LIB	LIB	0.0
+-0.08	Kelowna-Lake Country	LIB	LIB	0.0
+-0.08	Kelowna-Mission	LIB	LIB	0.0
+-0.08	Kelowna West	LIB	LIB	0.0
+-0.08	Kootenay East	LIB	LIB	0.0
+-0.08	Kootenay West	NDP	NDP	0.0
+-0.08	Langford-Juan de Fuca	NDP	NDP	0.0
+-0.08	Langley	NDP	NDP	0.0
+-0.08	Langley East	NDP	NDP	0.0
+-0.08	Maple Ridge-Mission	NDP	NDP	0.0
+-0.08	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+-0.08	Mid Island-Pacific Rim	NDP	NDP	0.0
+-0.08	Nanaimo	NDP	NDP	0.0
+-0.08	Nanaimo-North Cowichan	NDP	NDP	0.0
+-0.08	Nechako Lakes	LIB	LIB	0.0
+-0.08	Nelson-Creston	NDP	NDP	0.0
+-0.08	New Westminster	NDP	NDP	0.0
+-0.08	North Coast	NDP	NDP	0.0
+-0.08	North Island	NDP	NDP	0.0
+-0.08	North Vancouver-Lonsdale	NDP	NDP	0.0
+-0.08	North Vancouver-Seymour	NDP	NDP	0.0
+-0.08	Oak Bay-Gordon Head	NDP	NDP	0.0
+-0.08	Parksville-Qualicum	NDP	NDP	0.0
+-0.08	Peace River North	LIB	LIB	0.0
+-0.08	Peace River South	LIB	LIB	0.0
+-0.08	Penticton	LIB	NDP	1.0
+-0.08	Port Coquitlam	NDP	NDP	0.0
+-0.08	Port Moody-Coquitlam	NDP	NDP	0.0
+-0.08	Powell River-Sunshine Coast	NDP	NDP	0.0
+-0.08	Prince George-Mackenzie	LIB	LIB	0.0
+-0.08	Prince George-Valemount	LIB	LIB	0.0
+-0.08	Richmond North Centre	LIB	NDP	1.0
+-0.08	Richmond-Queensborough	NDP	NDP	0.0
+-0.08	Richmond South Centre	NDP	NDP	0.0
+-0.08	Richmond-Steveston	NDP	NDP	0.0
+-0.08	Saanich North and the Islands	GP	GP	0.0
+-0.08	Saanich South	NDP	NDP	0.0
+-0.08	Shuswap	LIB	LIB	0.0
+-0.08	Skeena	LIB	NDP	1.0
+-0.08	Stikine	NDP	NDP	0.0
+-0.08	Surrey-Cloverdale	NDP	NDP	0.0
+-0.08	Surrey-Fleetwood	NDP	NDP	0.0
+-0.08	Surrey-Green Timbers	NDP	NDP	0.0
+-0.08	Surrey-Guildford	NDP	NDP	0.0
+-0.08	Surrey-Newton	NDP	NDP	0.0
+-0.08	Surrey-Panorama	NDP	NDP	0.0
+-0.08	Surrey South	LIB	NDP	1.0
+-0.08	Surrey-Whalley	NDP	NDP	0.0
+-0.08	Surrey-White Rock	LIB	NDP	1.0
+-0.08	Vancouver-Fairview	NDP	NDP	0.0
+-0.08	Vancouver-False Creek	NDP	NDP	0.0
+-0.08	Vancouver-Fraserview	NDP	NDP	0.0
+-0.08	Vancouver-Hastings	NDP	NDP	0.0
+-0.08	Vancouver-Kensington	NDP	NDP	0.0
+-0.08	Vancouver-Kingsway	NDP	NDP	0.0
+-0.08	Vancouver-Langara	LIB	NDP	1.0
+-0.08	Vancouver-Mount Pleasant	NDP	NDP	0.0
+-0.08	Vancouver-Point Grey	NDP	NDP	0.0
+-0.08	Vancouver-Quilchena	LIB	LIB	0.0
+-0.08	Vancouver-West End	NDP	NDP	0.0
+-0.08	Vernon-Monashee	LIB	NDP	1.0
+-0.08	Victoria-Beacon Hill	NDP	NDP	0.0
+-0.08	Victoria-Swan Lake	NDP	NDP	0.0
+-0.08	West Vancouver-Capilano	LIB	LIB	0.0
+-0.08	West Vancouver-Sea to Sky	GP	GP	0.0
+-0.07	Abbotsford-Mission	LIB	NDP	1.0
+-0.07	Abbotsford South	LIB	NDP	0.92
+-0.07	Abbotsford West	LIB	NDP	0.999
+-0.07	Boundary-Similkameen	NDP	NDP	0.0
+-0.07	Burnaby-Deer Lake	NDP	NDP	0.0
+-0.07	Burnaby-Edmonds	NDP	NDP	0.0
+-0.07	Burnaby-Lougheed	NDP	NDP	0.0
+-0.07	Burnaby North	NDP	NDP	0.0
+-0.07	Cariboo-Chilcotin	LIB	LIB	0.0
+-0.07	Cariboo North	LIB	LIB	0.0
+-0.07	Chilliwack	NDP	NDP	0.0
+-0.07	Chilliwack-Kent	NDP	NDP	0.0
+-0.07	Columbia River-Revelstoke	LIB	NDP	1.0
+-0.07	Coquitlam-Burke Mountain	NDP	NDP	0.0
+-0.07	Coquitlam-Maillardville	NDP	NDP	0.0
+-0.07	Courtenay-Comox	NDP	NDP	0.0
+-0.07	Cowichan Valley	GP	NDP	1.0
+-0.07	Delta North	NDP	NDP	0.0
+-0.07	Delta South	LIB	LIB	0.0
+-0.07	Esquimalt-Metchosin	NDP	NDP	0.0
+-0.07	Fraser-Nicola	LIB	NDP	1.0
+-0.07	Kamloops-North Thompson	LIB	NDP	1.0
+-0.07	Kamloops-South Thompson	LIB	LIB	0.0
+-0.07	Kelowna-Lake Country	LIB	LIB	0.0
+-0.07	Kelowna-Mission	LIB	LIB	0.0
+-0.07	Kelowna West	LIB	LIB	0.0
+-0.07	Kootenay East	LIB	LIB	0.0
+-0.07	Kootenay West	NDP	NDP	0.0
+-0.07	Langford-Juan de Fuca	NDP	NDP	0.0
+-0.07	Langley	NDP	NDP	0.0
+-0.07	Langley East	NDP	NDP	0.0
+-0.07	Maple Ridge-Mission	NDP	NDP	0.0
+-0.07	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+-0.07	Mid Island-Pacific Rim	NDP	NDP	0.0
+-0.07	Nanaimo	NDP	NDP	0.0
+-0.07	Nanaimo-North Cowichan	NDP	NDP	0.0
+-0.07	Nechako Lakes	LIB	LIB	0.0
+-0.07	Nelson-Creston	NDP	NDP	0.0
+-0.07	New Westminster	NDP	NDP	0.0
+-0.07	North Coast	NDP	NDP	0.0
+-0.07	North Island	NDP	NDP	0.0
+-0.07	North Vancouver-Lonsdale	NDP	NDP	0.0
+-0.07	North Vancouver-Seymour	NDP	NDP	0.0
+-0.07	Oak Bay-Gordon Head	NDP	NDP	0.0
+-0.07	Parksville-Qualicum	NDP	NDP	0.0
+-0.07	Peace River North	LIB	LIB	0.0
+-0.07	Peace River South	LIB	LIB	0.0
+-0.07	Penticton	LIB	LIB	0.049
+-0.07	Port Coquitlam	NDP	NDP	0.0
+-0.07	Port Moody-Coquitlam	NDP	NDP	0.0
+-0.07	Powell River-Sunshine Coast	NDP	NDP	0.0
+-0.07	Prince George-Mackenzie	LIB	LIB	0.0
+-0.07	Prince George-Valemount	LIB	LIB	0.0
+-0.07	Richmond North Centre	LIB	NDP	1.0
+-0.07	Richmond-Queensborough	NDP	NDP	0.0
+-0.07	Richmond South Centre	NDP	NDP	0.0
+-0.07	Richmond-Steveston	NDP	NDP	0.0
+-0.07	Saanich North and the Islands	GP	GP	0.0
+-0.07	Saanich South	NDP	NDP	0.0
+-0.07	Shuswap	LIB	LIB	0.0
+-0.07	Skeena	LIB	NDP	1.0
+-0.07	Stikine	NDP	NDP	0.0
+-0.07	Surrey-Cloverdale	NDP	NDP	0.0
+-0.07	Surrey-Fleetwood	NDP	NDP	0.0
+-0.07	Surrey-Green Timbers	NDP	NDP	0.0
+-0.07	Surrey-Guildford	NDP	NDP	0.0
+-0.07	Surrey-Newton	NDP	NDP	0.0
+-0.07	Surrey-Panorama	NDP	NDP	0.0
+-0.07	Surrey South	LIB	NDP	1.0
+-0.07	Surrey-Whalley	NDP	NDP	0.0
+-0.07	Surrey-White Rock	LIB	NDP	1.0
+-0.07	Vancouver-Fairview	NDP	NDP	0.0
+-0.07	Vancouver-False Creek	NDP	NDP	0.0
+-0.07	Vancouver-Fraserview	NDP	NDP	0.0
+-0.07	Vancouver-Hastings	NDP	NDP	0.0
+-0.07	Vancouver-Kensington	NDP	NDP	0.0
+-0.07	Vancouver-Kingsway	NDP	NDP	0.0
+-0.07	Vancouver-Langara	LIB	NDP	1.0
+-0.07	Vancouver-Mount Pleasant	NDP	NDP	0.0
+-0.07	Vancouver-Point Grey	NDP	NDP	0.0
+-0.07	Vancouver-Quilchena	LIB	LIB	0.0
+-0.07	Vancouver-West End	NDP	NDP	0.0
+-0.07	Vernon-Monashee	LIB	NDP	1.0
+-0.07	Victoria-Beacon Hill	NDP	NDP	0.0
+-0.07	Victoria-Swan Lake	NDP	NDP	0.0
+-0.07	West Vancouver-Capilano	LIB	LIB	0.0
+-0.07	West Vancouver-Sea to Sky	GP	GP	0.0
+-0.06	Abbotsford-Mission	LIB	NDP	1.0
+-0.06	Abbotsford South	LIB	LIB	0.0
+-0.06	Abbotsford West	LIB	LIB	0.025
+-0.06	Boundary-Similkameen	NDP	NDP	0.0
+-0.06	Burnaby-Deer Lake	NDP	NDP	0.0
+-0.06	Burnaby-Edmonds	NDP	NDP	0.0
+-0.06	Burnaby-Lougheed	NDP	NDP	0.0
+-0.06	Burnaby North	NDP	NDP	0.0
+-0.06	Cariboo-Chilcotin	LIB	LIB	0.0
+-0.06	Cariboo North	LIB	LIB	0.0
+-0.06	Chilliwack	NDP	NDP	0.0
+-0.06	Chilliwack-Kent	NDP	NDP	0.0
+-0.06	Columbia River-Revelstoke	LIB	NDP	1.0
+-0.06	Coquitlam-Burke Mountain	NDP	NDP	0.0
+-0.06	Coquitlam-Maillardville	NDP	NDP	0.0
+-0.06	Courtenay-Comox	NDP	NDP	0.0
+-0.06	Cowichan Valley	GP	NDP	0.893
+-0.06	Delta North	NDP	NDP	0.0
+-0.06	Delta South	LIB	LIB	0.0
+-0.06	Esquimalt-Metchosin	NDP	NDP	0.0
+-0.06	Fraser-Nicola	LIB	NDP	1.0
+-0.06	Kamloops-North Thompson	LIB	NDP	1.0
+-0.06	Kamloops-South Thompson	LIB	LIB	0.0
+-0.06	Kelowna-Lake Country	LIB	LIB	0.0
+-0.06	Kelowna-Mission	LIB	LIB	0.0
+-0.06	Kelowna West	LIB	LIB	0.0
+-0.06	Kootenay East	LIB	LIB	0.0
+-0.06	Kootenay West	NDP	NDP	0.0
+-0.06	Langford-Juan de Fuca	NDP	NDP	0.0
+-0.06	Langley	NDP	NDP	0.0
+-0.06	Langley East	NDP	NDP	0.0
+-0.06	Maple Ridge-Mission	NDP	NDP	0.0
+-0.06	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+-0.06	Mid Island-Pacific Rim	NDP	NDP	0.0
+-0.06	Nanaimo	NDP	NDP	0.0
+-0.06	Nanaimo-North Cowichan	NDP	NDP	0.0
+-0.06	Nechako Lakes	LIB	LIB	0.0
+-0.06	Nelson-Creston	NDP	NDP	0.0
+-0.06	New Westminster	NDP	NDP	0.0
+-0.06	North Coast	NDP	NDP	0.0
+-0.06	North Island	NDP	NDP	0.0
+-0.06	North Vancouver-Lonsdale	NDP	NDP	0.0
+-0.06	North Vancouver-Seymour	NDP	NDP	0.0
+-0.06	Oak Bay-Gordon Head	NDP	NDP	0.0
+-0.06	Parksville-Qualicum	NDP	NDP	0.0
+-0.06	Peace River North	LIB	LIB	0.0
+-0.06	Peace River South	LIB	LIB	0.0
+-0.06	Penticton	LIB	LIB	0.0
+-0.06	Port Coquitlam	NDP	NDP	0.0
+-0.06	Port Moody-Coquitlam	NDP	NDP	0.0
+-0.06	Powell River-Sunshine Coast	NDP	NDP	0.0
+-0.06	Prince George-Mackenzie	LIB	LIB	0.0
+-0.06	Prince George-Valemount	LIB	LIB	0.0
+-0.06	Richmond North Centre	LIB	NDP	0.996
+-0.06	Richmond-Queensborough	NDP	NDP	0.0
+-0.06	Richmond South Centre	NDP	NDP	0.0
+-0.06	Richmond-Steveston	NDP	NDP	0.0
+-0.06	Saanich North and the Islands	GP	GP	0.0
+-0.06	Saanich South	NDP	NDP	0.0
+-0.06	Shuswap	LIB	LIB	0.0
+-0.06	Skeena	LIB	NDP	1.0
+-0.06	Stikine	NDP	NDP	0.0
+-0.06	Surrey-Cloverdale	NDP	NDP	0.0
+-0.06	Surrey-Fleetwood	NDP	NDP	0.0
+-0.06	Surrey-Green Timbers	NDP	NDP	0.0
+-0.06	Surrey-Guildford	NDP	NDP	0.0
+-0.06	Surrey-Newton	NDP	NDP	0.0
+-0.06	Surrey-Panorama	NDP	NDP	0.0
+-0.06	Surrey South	LIB	NDP	1.0
+-0.06	Surrey-Whalley	NDP	NDP	0.0
+-0.06	Surrey-White Rock	LIB	NDP	1.0
+-0.06	Vancouver-Fairview	NDP	NDP	0.0
+-0.06	Vancouver-False Creek	NDP	NDP	0.0
+-0.06	Vancouver-Fraserview	NDP	NDP	0.0
+-0.06	Vancouver-Hastings	NDP	NDP	0.0
+-0.06	Vancouver-Kensington	NDP	NDP	0.0
+-0.06	Vancouver-Kingsway	NDP	NDP	0.0
+-0.06	Vancouver-Langara	LIB	NDP	1.0
+-0.06	Vancouver-Mount Pleasant	NDP	NDP	0.0
+-0.06	Vancouver-Point Grey	NDP	NDP	0.0
+-0.06	Vancouver-Quilchena	LIB	LIB	0.0
+-0.06	Vancouver-West End	NDP	NDP	0.0
+-0.06	Vernon-Monashee	LIB	NDP	1.0
+-0.06	Victoria-Beacon Hill	NDP	NDP	0.0
+-0.06	Victoria-Swan Lake	NDP	NDP	0.0
+-0.06	West Vancouver-Capilano	LIB	LIB	0.0
+-0.06	West Vancouver-Sea to Sky	GP	GP	0.0
+-0.05	Abbotsford-Mission	LIB	NDP	1.0
+-0.05	Abbotsford South	LIB	LIB	0.0
+-0.05	Abbotsford West	LIB	LIB	0.0
+-0.05	Boundary-Similkameen	NDP	NDP	0.0
+-0.05	Burnaby-Deer Lake	NDP	NDP	0.0
+-0.05	Burnaby-Edmonds	NDP	NDP	0.0
+-0.05	Burnaby-Lougheed	NDP	NDP	0.0
+-0.05	Burnaby North	NDP	NDP	0.0
+-0.05	Cariboo-Chilcotin	LIB	LIB	0.0
+-0.05	Cariboo North	LIB	LIB	0.0
+-0.05	Chilliwack	NDP	NDP	0.0
+-0.05	Chilliwack-Kent	NDP	NDP	0.0
+-0.05	Columbia River-Revelstoke	LIB	LIB	0.216
+-0.05	Coquitlam-Burke Mountain	NDP	NDP	0.0
+-0.05	Coquitlam-Maillardville	NDP	NDP	0.0
+-0.05	Courtenay-Comox	NDP	NDP	0.0
+-0.05	Cowichan Valley	GP	GP	0.031
+-0.05	Delta North	NDP	NDP	0.0
+-0.05	Delta South	LIB	LIB	0.0
+-0.05	Esquimalt-Metchosin	NDP	NDP	0.0
+-0.05	Fraser-Nicola	LIB	NDP	1.0
+-0.05	Kamloops-North Thompson	LIB	NDP	1.0
+-0.05	Kamloops-South Thompson	LIB	LIB	0.0
+-0.05	Kelowna-Lake Country	LIB	LIB	0.0
+-0.05	Kelowna-Mission	LIB	LIB	0.0
+-0.05	Kelowna West	LIB	LIB	0.0
+-0.05	Kootenay East	LIB	LIB	0.0
+-0.05	Kootenay West	NDP	NDP	0.0
+-0.05	Langford-Juan de Fuca	NDP	NDP	0.0
+-0.05	Langley	NDP	NDP	0.0
+-0.05	Langley East	NDP	NDP	0.0
+-0.05	Maple Ridge-Mission	NDP	NDP	0.0
+-0.05	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+-0.05	Mid Island-Pacific Rim	NDP	NDP	0.0
+-0.05	Nanaimo	NDP	NDP	0.0
+-0.05	Nanaimo-North Cowichan	NDP	NDP	0.0
+-0.05	Nechako Lakes	LIB	LIB	0.0
+-0.05	Nelson-Creston	NDP	NDP	0.0
+-0.05	New Westminster	NDP	NDP	0.0
+-0.05	North Coast	NDP	NDP	0.0
+-0.05	North Island	NDP	NDP	0.0
+-0.05	North Vancouver-Lonsdale	NDP	NDP	0.0
+-0.05	North Vancouver-Seymour	NDP	NDP	0.0
+-0.05	Oak Bay-Gordon Head	NDP	NDP	0.0
+-0.05	Parksville-Qualicum	NDP	NDP	0.0
+-0.05	Peace River North	LIB	LIB	0.0
+-0.05	Peace River South	LIB	LIB	0.0
+-0.05	Penticton	LIB	LIB	0.0
+-0.05	Port Coquitlam	NDP	NDP	0.0
+-0.05	Port Moody-Coquitlam	NDP	NDP	0.0
+-0.05	Powell River-Sunshine Coast	NDP	NDP	0.0
+-0.05	Prince George-Mackenzie	LIB	LIB	0.0
+-0.05	Prince George-Valemount	LIB	LIB	0.0
+-0.05	Richmond North Centre	LIB	LIB	0.044
+-0.05	Richmond-Queensborough	NDP	NDP	0.0
+-0.05	Richmond South Centre	NDP	NDP	0.0
+-0.05	Richmond-Steveston	NDP	NDP	0.0
+-0.05	Saanich North and the Islands	GP	GP	0.0
+-0.05	Saanich South	NDP	NDP	0.0
+-0.05	Shuswap	LIB	LIB	0.0
+-0.05	Skeena	LIB	LIB	0.355
+-0.05	Stikine	NDP	NDP	0.0
+-0.05	Surrey-Cloverdale	NDP	NDP	0.0
+-0.05	Surrey-Fleetwood	NDP	NDP	0.0
+-0.05	Surrey-Green Timbers	NDP	NDP	0.0
+-0.05	Surrey-Guildford	NDP	NDP	0.0
+-0.05	Surrey-Newton	NDP	NDP	0.0
+-0.05	Surrey-Panorama	NDP	NDP	0.0
+-0.05	Surrey South	LIB	NDP	1.0
+-0.05	Surrey-Whalley	NDP	NDP	0.0
+-0.05	Surrey-White Rock	LIB	NDP	1.0
+-0.05	Vancouver-Fairview	NDP	NDP	0.0
+-0.05	Vancouver-False Creek	NDP	NDP	0.0
+-0.05	Vancouver-Fraserview	NDP	NDP	0.0
+-0.05	Vancouver-Hastings	NDP	NDP	0.0
+-0.05	Vancouver-Kensington	NDP	NDP	0.0
+-0.05	Vancouver-Kingsway	NDP	NDP	0.0
+-0.05	Vancouver-Langara	LIB	NDP	1.0
+-0.05	Vancouver-Mount Pleasant	NDP	NDP	0.0
+-0.05	Vancouver-Point Grey	NDP	NDP	0.0
+-0.05	Vancouver-Quilchena	LIB	LIB	0.0
+-0.05	Vancouver-West End	NDP	NDP	0.0
+-0.05	Vernon-Monashee	LIB	NDP	1.0
+-0.05	Victoria-Beacon Hill	NDP	NDP	0.0
+-0.05	Victoria-Swan Lake	NDP	NDP	0.0
+-0.05	West Vancouver-Capilano	LIB	LIB	0.0
+-0.05	West Vancouver-Sea to Sky	GP	GP	0.0
+-0.04	Abbotsford-Mission	LIB	NDP	1.0
+-0.04	Abbotsford South	LIB	LIB	0.0
+-0.04	Abbotsford West	LIB	LIB	0.0
+-0.04	Boundary-Similkameen	NDP	NDP	0.0
+-0.04	Burnaby-Deer Lake	NDP	NDP	0.0
+-0.04	Burnaby-Edmonds	NDP	NDP	0.0
+-0.04	Burnaby-Lougheed	NDP	NDP	0.0
+-0.04	Burnaby North	NDP	NDP	0.0
+-0.04	Cariboo-Chilcotin	LIB	LIB	0.0
+-0.04	Cariboo North	LIB	LIB	0.0
+-0.04	Chilliwack	NDP	NDP	0.0
+-0.04	Chilliwack-Kent	NDP	NDP	0.0
+-0.04	Columbia River-Revelstoke	LIB	LIB	0.0
+-0.04	Coquitlam-Burke Mountain	NDP	NDP	0.0
+-0.04	Coquitlam-Maillardville	NDP	NDP	0.0
+-0.04	Courtenay-Comox	NDP	NDP	0.0
+-0.04	Cowichan Valley	GP	GP	0.0
+-0.04	Delta North	NDP	NDP	0.0
+-0.04	Delta South	LIB	LIB	0.0
+-0.04	Esquimalt-Metchosin	NDP	NDP	0.0
+-0.04	Fraser-Nicola	LIB	NDP	1.0
+-0.04	Kamloops-North Thompson	LIB	NDP	1.0
+-0.04	Kamloops-South Thompson	LIB	LIB	0.0
+-0.04	Kelowna-Lake Country	LIB	LIB	0.0
+-0.04	Kelowna-Mission	LIB	LIB	0.0
+-0.04	Kelowna West	LIB	LIB	0.0
+-0.04	Kootenay East	LIB	LIB	0.0
+-0.04	Kootenay West	NDP	NDP	0.0
+-0.04	Langford-Juan de Fuca	NDP	NDP	0.0
+-0.04	Langley	NDP	NDP	0.0
+-0.04	Langley East	NDP	NDP	0.0
+-0.04	Maple Ridge-Mission	NDP	NDP	0.0
+-0.04	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+-0.04	Mid Island-Pacific Rim	NDP	NDP	0.0
+-0.04	Nanaimo	NDP	NDP	0.0
+-0.04	Nanaimo-North Cowichan	NDP	NDP	0.0
+-0.04	Nechako Lakes	LIB	LIB	0.0
+-0.04	Nelson-Creston	NDP	NDP	0.0
+-0.04	New Westminster	NDP	NDP	0.0
+-0.04	North Coast	NDP	NDP	0.0
+-0.04	North Island	NDP	NDP	0.0
+-0.04	North Vancouver-Lonsdale	NDP	NDP	0.0
+-0.04	North Vancouver-Seymour	NDP	NDP	0.0
+-0.04	Oak Bay-Gordon Head	NDP	NDP	0.0
+-0.04	Parksville-Qualicum	NDP	NDP	0.0
+-0.04	Peace River North	LIB	LIB	0.0
+-0.04	Peace River South	LIB	LIB	0.0
+-0.04	Penticton	LIB	LIB	0.0
+-0.04	Port Coquitlam	NDP	NDP	0.0
+-0.04	Port Moody-Coquitlam	NDP	NDP	0.0
+-0.04	Powell River-Sunshine Coast	NDP	NDP	0.0
+-0.04	Prince George-Mackenzie	LIB	LIB	0.0
+-0.04	Prince George-Valemount	LIB	LIB	0.0
+-0.04	Richmond North Centre	LIB	LIB	0.0
+-0.04	Richmond-Queensborough	NDP	NDP	0.0
+-0.04	Richmond South Centre	NDP	NDP	0.0
+-0.04	Richmond-Steveston	NDP	NDP	0.0
+-0.04	Saanich North and the Islands	GP	GP	0.0
+-0.04	Saanich South	NDP	NDP	0.0
+-0.04	Shuswap	LIB	LIB	0.0
+-0.04	Skeena	LIB	LIB	0.0
+-0.04	Stikine	NDP	NDP	0.0
+-0.04	Surrey-Cloverdale	NDP	NDP	0.0
+-0.04	Surrey-Fleetwood	NDP	NDP	0.0
+-0.04	Surrey-Green Timbers	NDP	NDP	0.0
+-0.04	Surrey-Guildford	NDP	NDP	0.0
+-0.04	Surrey-Newton	NDP	NDP	0.0
+-0.04	Surrey-Panorama	NDP	NDP	0.0
+-0.04	Surrey South	LIB	NDP	0.932
+-0.04	Surrey-Whalley	NDP	NDP	0.0
+-0.04	Surrey-White Rock	LIB	NDP	1.0
+-0.04	Vancouver-Fairview	NDP	NDP	0.0
+-0.04	Vancouver-False Creek	NDP	NDP	0.0
+-0.04	Vancouver-Fraserview	NDP	NDP	0.0
+-0.04	Vancouver-Hastings	NDP	NDP	0.0
+-0.04	Vancouver-Kensington	NDP	NDP	0.0
+-0.04	Vancouver-Kingsway	NDP	NDP	0.0
+-0.04	Vancouver-Langara	LIB	NDP	1.0
+-0.04	Vancouver-Mount Pleasant	NDP	NDP	0.0
+-0.04	Vancouver-Point Grey	NDP	NDP	0.0
+-0.04	Vancouver-Quilchena	LIB	LIB	0.0
+-0.04	Vancouver-West End	NDP	NDP	0.0
+-0.04	Vernon-Monashee	LIB	NDP	1.0
+-0.04	Victoria-Beacon Hill	NDP	NDP	0.0
+-0.04	Victoria-Swan Lake	NDP	NDP	0.0
+-0.04	West Vancouver-Capilano	LIB	LIB	0.0
+-0.04	West Vancouver-Sea to Sky	GP	GP	0.0
+-0.03	Abbotsford-Mission	LIB	NDP	1.0
+-0.03	Abbotsford South	LIB	LIB	0.0
+-0.03	Abbotsford West	LIB	LIB	0.0
+-0.03	Boundary-Similkameen	NDP	NDP	0.0
+-0.03	Burnaby-Deer Lake	NDP	NDP	0.0
+-0.03	Burnaby-Edmonds	NDP	NDP	0.0
+-0.03	Burnaby-Lougheed	NDP	NDP	0.0
+-0.03	Burnaby North	NDP	NDP	0.0
+-0.03	Cariboo-Chilcotin	LIB	LIB	0.0
+-0.03	Cariboo North	LIB	LIB	0.0
+-0.03	Chilliwack	NDP	NDP	0.0
+-0.03	Chilliwack-Kent	NDP	NDP	0.0
+-0.03	Columbia River-Revelstoke	LIB	LIB	0.0
+-0.03	Coquitlam-Burke Mountain	NDP	NDP	0.0
+-0.03	Coquitlam-Maillardville	NDP	NDP	0.0
+-0.03	Courtenay-Comox	NDP	NDP	0.0
+-0.03	Cowichan Valley	GP	GP	0.0
+-0.03	Delta North	NDP	NDP	0.0
+-0.03	Delta South	LIB	LIB	0.0
+-0.03	Esquimalt-Metchosin	NDP	NDP	0.0
+-0.03	Fraser-Nicola	LIB	NDP	1.0
+-0.03	Kamloops-North Thompson	LIB	NDP	0.999
+-0.03	Kamloops-South Thompson	LIB	LIB	0.0
+-0.03	Kelowna-Lake Country	LIB	LIB	0.0
+-0.03	Kelowna-Mission	LIB	LIB	0.0
+-0.03	Kelowna West	LIB	LIB	0.0
+-0.03	Kootenay East	LIB	LIB	0.0
+-0.03	Kootenay West	NDP	NDP	0.0
+-0.03	Langford-Juan de Fuca	NDP	NDP	0.0
+-0.03	Langley	NDP	NDP	0.0
+-0.03	Langley East	NDP	NDP	0.0
+-0.03	Maple Ridge-Mission	NDP	NDP	0.0
+-0.03	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+-0.03	Mid Island-Pacific Rim	NDP	NDP	0.0
+-0.03	Nanaimo	NDP	NDP	0.0
+-0.03	Nanaimo-North Cowichan	NDP	NDP	0.0
+-0.03	Nechako Lakes	LIB	LIB	0.0
+-0.03	Nelson-Creston	NDP	NDP	0.0
+-0.03	New Westminster	NDP	NDP	0.0
+-0.03	North Coast	NDP	NDP	0.0
+-0.03	North Island	NDP	NDP	0.0
+-0.03	North Vancouver-Lonsdale	NDP	NDP	0.0
+-0.03	North Vancouver-Seymour	NDP	NDP	0.0
+-0.03	Oak Bay-Gordon Head	NDP	NDP	0.0
+-0.03	Parksville-Qualicum	NDP	NDP	0.0
+-0.03	Peace River North	LIB	LIB	0.0
+-0.03	Peace River South	LIB	LIB	0.0
+-0.03	Penticton	LIB	LIB	0.0
+-0.03	Port Coquitlam	NDP	NDP	0.0
+-0.03	Port Moody-Coquitlam	NDP	NDP	0.0
+-0.03	Powell River-Sunshine Coast	NDP	NDP	0.0
+-0.03	Prince George-Mackenzie	LIB	LIB	0.0
+-0.03	Prince George-Valemount	LIB	LIB	0.0
+-0.03	Richmond North Centre	LIB	LIB	0.0
+-0.03	Richmond-Queensborough	NDP	NDP	0.0
+-0.03	Richmond South Centre	NDP	NDP	0.0
+-0.03	Richmond-Steveston	NDP	NDP	0.0
+-0.03	Saanich North and the Islands	GP	GP	0.0
+-0.03	Saanich South	NDP	NDP	0.0
+-0.03	Shuswap	LIB	LIB	0.0
+-0.03	Skeena	LIB	LIB	0.0
+-0.03	Stikine	NDP	NDP	0.0
+-0.03	Surrey-Cloverdale	NDP	NDP	0.0
+-0.03	Surrey-Fleetwood	NDP	NDP	0.0
+-0.03	Surrey-Green Timbers	NDP	NDP	0.0
+-0.03	Surrey-Guildford	NDP	NDP	0.0
+-0.03	Surrey-Newton	NDP	NDP	0.0
+-0.03	Surrey-Panorama	NDP	NDP	0.0
+-0.03	Surrey South	LIB	LIB	0.0
+-0.03	Surrey-Whalley	NDP	NDP	0.0
+-0.03	Surrey-White Rock	LIB	NDP	1.0
+-0.03	Vancouver-Fairview	NDP	NDP	0.0
+-0.03	Vancouver-False Creek	NDP	NDP	0.0
+-0.03	Vancouver-Fraserview	NDP	NDP	0.0
+-0.03	Vancouver-Hastings	NDP	NDP	0.0
+-0.03	Vancouver-Kensington	NDP	NDP	0.0
+-0.03	Vancouver-Kingsway	NDP	NDP	0.0
+-0.03	Vancouver-Langara	LIB	NDP	0.724
+-0.03	Vancouver-Mount Pleasant	NDP	NDP	0.0
+-0.03	Vancouver-Point Grey	NDP	NDP	0.0
+-0.03	Vancouver-Quilchena	LIB	LIB	0.0
+-0.03	Vancouver-West End	NDP	NDP	0.0
+-0.03	Vernon-Monashee	LIB	NDP	1.0
+-0.03	Victoria-Beacon Hill	NDP	NDP	0.0
+-0.03	Victoria-Swan Lake	NDP	NDP	0.0
+-0.03	West Vancouver-Capilano	LIB	LIB	0.0
+-0.03	West Vancouver-Sea to Sky	GP	GP	0.0
+-0.02	Abbotsford-Mission	LIB	NDP	1.0
+-0.02	Abbotsford South	LIB	LIB	0.0
+-0.02	Abbotsford West	LIB	LIB	0.0
+-0.02	Boundary-Similkameen	NDP	NDP	0.0
+-0.02	Burnaby-Deer Lake	NDP	NDP	0.0
+-0.02	Burnaby-Edmonds	NDP	NDP	0.0
+-0.02	Burnaby-Lougheed	NDP	NDP	0.0
+-0.02	Burnaby North	NDP	NDP	0.0
+-0.02	Cariboo-Chilcotin	LIB	LIB	0.0
+-0.02	Cariboo North	LIB	LIB	0.0
+-0.02	Chilliwack	NDP	NDP	0.0
+-0.02	Chilliwack-Kent	NDP	NDP	0.0
+-0.02	Columbia River-Revelstoke	LIB	LIB	0.0
+-0.02	Coquitlam-Burke Mountain	NDP	NDP	0.0
+-0.02	Coquitlam-Maillardville	NDP	NDP	0.0
+-0.02	Courtenay-Comox	NDP	NDP	0.0
+-0.02	Cowichan Valley	GP	GP	0.0
+-0.02	Delta North	NDP	NDP	0.0
+-0.02	Delta South	LIB	LIB	0.0
+-0.02	Esquimalt-Metchosin	NDP	NDP	0.0
+-0.02	Fraser-Nicola	LIB	NDP	0.921
+-0.02	Kamloops-North Thompson	LIB	LIB	0.009
+-0.02	Kamloops-South Thompson	LIB	LIB	0.0
+-0.02	Kelowna-Lake Country	LIB	LIB	0.0
+-0.02	Kelowna-Mission	LIB	LIB	0.0
+-0.02	Kelowna West	LIB	LIB	0.0
+-0.02	Kootenay East	LIB	LIB	0.0
+-0.02	Kootenay West	NDP	NDP	0.0
+-0.02	Langford-Juan de Fuca	NDP	NDP	0.0
+-0.02	Langley	NDP	NDP	0.0
+-0.02	Langley East	NDP	NDP	0.0
+-0.02	Maple Ridge-Mission	NDP	NDP	0.0
+-0.02	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+-0.02	Mid Island-Pacific Rim	NDP	NDP	0.0
+-0.02	Nanaimo	NDP	NDP	0.0
+-0.02	Nanaimo-North Cowichan	NDP	NDP	0.0
+-0.02	Nechako Lakes	LIB	LIB	0.0
+-0.02	Nelson-Creston	NDP	NDP	0.0
+-0.02	New Westminster	NDP	NDP	0.0
+-0.02	North Coast	NDP	NDP	0.0
+-0.02	North Island	NDP	NDP	0.0
+-0.02	North Vancouver-Lonsdale	NDP	NDP	0.0
+-0.02	North Vancouver-Seymour	NDP	NDP	0.0
+-0.02	Oak Bay-Gordon Head	NDP	NDP	0.0
+-0.02	Parksville-Qualicum	NDP	NDP	0.0
+-0.02	Peace River North	LIB	LIB	0.0
+-0.02	Peace River South	LIB	LIB	0.0
+-0.02	Penticton	LIB	LIB	0.0
+-0.02	Port Coquitlam	NDP	NDP	0.0
+-0.02	Port Moody-Coquitlam	NDP	NDP	0.0
+-0.02	Powell River-Sunshine Coast	NDP	NDP	0.0
+-0.02	Prince George-Mackenzie	LIB	LIB	0.0
+-0.02	Prince George-Valemount	LIB	LIB	0.0
+-0.02	Richmond North Centre	LIB	LIB	0.0
+-0.02	Richmond-Queensborough	NDP	NDP	0.0
+-0.02	Richmond South Centre	NDP	NDP	0.0
+-0.02	Richmond-Steveston	NDP	NDP	0.0
+-0.02	Saanich North and the Islands	GP	GP	0.0
+-0.02	Saanich South	NDP	NDP	0.0
+-0.02	Shuswap	LIB	LIB	0.0
+-0.02	Skeena	LIB	LIB	0.0
+-0.02	Stikine	NDP	NDP	0.0
+-0.02	Surrey-Cloverdale	NDP	NDP	0.0
+-0.02	Surrey-Fleetwood	NDP	NDP	0.0
+-0.02	Surrey-Green Timbers	NDP	NDP	0.0
+-0.02	Surrey-Guildford	NDP	NDP	0.0
+-0.02	Surrey-Newton	NDP	NDP	0.0
+-0.02	Surrey-Panorama	NDP	NDP	0.0
+-0.02	Surrey South	LIB	LIB	0.0
+-0.02	Surrey-Whalley	NDP	NDP	0.0
+-0.02	Surrey-White Rock	LIB	LIB	0.15
+-0.02	Vancouver-Fairview	NDP	NDP	0.0
+-0.02	Vancouver-False Creek	NDP	NDP	0.0
+-0.02	Vancouver-Fraserview	NDP	NDP	0.0
+-0.02	Vancouver-Hastings	NDP	NDP	0.0
+-0.02	Vancouver-Kensington	NDP	NDP	0.0
+-0.02	Vancouver-Kingsway	NDP	NDP	0.0
+-0.02	Vancouver-Langara	LIB	LIB	0.0
+-0.02	Vancouver-Mount Pleasant	NDP	NDP	0.0
+-0.02	Vancouver-Point Grey	NDP	NDP	0.0
+-0.02	Vancouver-Quilchena	LIB	LIB	0.0
+-0.02	Vancouver-West End	NDP	NDP	0.0
+-0.02	Vernon-Monashee	LIB	NDP	1.0
+-0.02	Victoria-Beacon Hill	NDP	NDP	0.0
+-0.02	Victoria-Swan Lake	NDP	NDP	0.0
+-0.02	West Vancouver-Capilano	LIB	LIB	0.0
+-0.02	West Vancouver-Sea to Sky	GP	GP	0.0
+-0.01	Abbotsford-Mission	LIB	NDP	1.0
+-0.01	Abbotsford South	LIB	LIB	0.0
+-0.01	Abbotsford West	LIB	LIB	0.0
+-0.01	Boundary-Similkameen	NDP	NDP	0.0
+-0.01	Burnaby-Deer Lake	NDP	NDP	0.0
+-0.01	Burnaby-Edmonds	NDP	NDP	0.0
+-0.01	Burnaby-Lougheed	NDP	NDP	0.0
+-0.01	Burnaby North	NDP	NDP	0.0
+-0.01	Cariboo-Chilcotin	LIB	LIB	0.0
+-0.01	Cariboo North	LIB	LIB	0.0
+-0.01	Chilliwack	NDP	NDP	0.0
+-0.01	Chilliwack-Kent	NDP	NDP	0.0
+-0.01	Columbia River-Revelstoke	LIB	LIB	0.0
+-0.01	Coquitlam-Burke Mountain	NDP	NDP	0.0
+-0.01	Coquitlam-Maillardville	NDP	NDP	0.0
+-0.01	Courtenay-Comox	NDP	NDP	0.0
+-0.01	Cowichan Valley	GP	GP	0.0
+-0.01	Delta North	NDP	NDP	0.0
+-0.01	Delta South	LIB	LIB	0.0
+-0.01	Esquimalt-Metchosin	NDP	NDP	0.0
+-0.01	Fraser-Nicola	LIB	LIB	0.0
+-0.01	Kamloops-North Thompson	LIB	LIB	0.0
+-0.01	Kamloops-South Thompson	LIB	LIB	0.0
+-0.01	Kelowna-Lake Country	LIB	LIB	0.0
+-0.01	Kelowna-Mission	LIB	LIB	0.0
+-0.01	Kelowna West	LIB	LIB	0.0
+-0.01	Kootenay East	LIB	LIB	0.0
+-0.01	Kootenay West	NDP	NDP	0.0
+-0.01	Langford-Juan de Fuca	NDP	NDP	0.0
+-0.01	Langley	NDP	NDP	0.0
+-0.01	Langley East	NDP	NDP	0.0
+-0.01	Maple Ridge-Mission	NDP	NDP	0.0
+-0.01	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+-0.01	Mid Island-Pacific Rim	NDP	NDP	0.0
+-0.01	Nanaimo	NDP	NDP	0.0
+-0.01	Nanaimo-North Cowichan	NDP	NDP	0.0
+-0.01	Nechako Lakes	LIB	LIB	0.0
+-0.01	Nelson-Creston	NDP	NDP	0.0
+-0.01	New Westminster	NDP	NDP	0.0
+-0.01	North Coast	NDP	NDP	0.0
+-0.01	North Island	NDP	NDP	0.0
+-0.01	North Vancouver-Lonsdale	NDP	NDP	0.0
+-0.01	North Vancouver-Seymour	NDP	NDP	0.0
+-0.01	Oak Bay-Gordon Head	NDP	NDP	0.0
+-0.01	Parksville-Qualicum	NDP	NDP	0.0
+-0.01	Peace River North	LIB	LIB	0.0
+-0.01	Peace River South	LIB	LIB	0.0
+-0.01	Penticton	LIB	LIB	0.0
+-0.01	Port Coquitlam	NDP	NDP	0.0
+-0.01	Port Moody-Coquitlam	NDP	NDP	0.0
+-0.01	Powell River-Sunshine Coast	NDP	NDP	0.0
+-0.01	Prince George-Mackenzie	LIB	LIB	0.0
+-0.01	Prince George-Valemount	LIB	LIB	0.0
+-0.01	Richmond North Centre	LIB	LIB	0.0
+-0.01	Richmond-Queensborough	NDP	NDP	0.0
+-0.01	Richmond South Centre	NDP	NDP	0.0
+-0.01	Richmond-Steveston	NDP	NDP	0.0
+-0.01	Saanich North and the Islands	GP	GP	0.0
+-0.01	Saanich South	NDP	NDP	0.0
+-0.01	Shuswap	LIB	LIB	0.0
+-0.01	Skeena	LIB	LIB	0.0
+-0.01	Stikine	NDP	NDP	0.0
+-0.01	Surrey-Cloverdale	NDP	NDP	0.0
+-0.01	Surrey-Fleetwood	NDP	NDP	0.0
+-0.01	Surrey-Green Timbers	NDP	NDP	0.0
+-0.01	Surrey-Guildford	NDP	NDP	0.0
+-0.01	Surrey-Newton	NDP	NDP	0.0
+-0.01	Surrey-Panorama	NDP	NDP	0.0
+-0.01	Surrey South	LIB	LIB	0.0
+-0.01	Surrey-Whalley	NDP	NDP	0.0
+-0.01	Surrey-White Rock	LIB	LIB	0.0
+-0.01	Vancouver-Fairview	NDP	NDP	0.0
+-0.01	Vancouver-False Creek	NDP	NDP	0.0
+-0.01	Vancouver-Fraserview	NDP	NDP	0.0
+-0.01	Vancouver-Hastings	NDP	NDP	0.0
+-0.01	Vancouver-Kensington	NDP	NDP	0.0
+-0.01	Vancouver-Kingsway	NDP	NDP	0.0
+-0.01	Vancouver-Langara	LIB	LIB	0.0
+-0.01	Vancouver-Mount Pleasant	NDP	NDP	0.0
+-0.01	Vancouver-Point Grey	NDP	NDP	0.0
+-0.01	Vancouver-Quilchena	LIB	LIB	0.0
+-0.01	Vancouver-West End	NDP	NDP	0.0
+-0.01	Vernon-Monashee	LIB	NDP	1.0
+-0.01	Victoria-Beacon Hill	NDP	NDP	0.0
+-0.01	Victoria-Swan Lake	NDP	NDP	0.0
+-0.01	West Vancouver-Capilano	LIB	LIB	0.0
+-0.01	West Vancouver-Sea to Sky	GP	GP	0.0
+0	Abbotsford-Mission	LIB	LIB	0.0
+0	Abbotsford South	LIB	LIB	0.0
+0	Abbotsford West	LIB	LIB	0.0
+0	Boundary-Similkameen	NDP	NDP	0.0
+0	Burnaby-Deer Lake	NDP	NDP	0.0
+0	Burnaby-Edmonds	NDP	NDP	0.0
+0	Burnaby-Lougheed	NDP	NDP	0.0
+0	Burnaby North	NDP	NDP	0.0
+0	Cariboo-Chilcotin	LIB	LIB	0.0
+0	Cariboo North	LIB	LIB	0.0
+0	Chilliwack	NDP	NDP	0.0
+0	Chilliwack-Kent	NDP	NDP	0.0
+0	Columbia River-Revelstoke	LIB	LIB	0.0
+0	Coquitlam-Burke Mountain	NDP	NDP	0.0
+0	Coquitlam-Maillardville	NDP	NDP	0.0
+0	Courtenay-Comox	NDP	NDP	0.0
+0	Cowichan Valley	GP	GP	0.0
+0	Delta North	NDP	NDP	0.0
+0	Delta South	LIB	LIB	0.0
+0	Esquimalt-Metchosin	NDP	NDP	0.0
+0	Fraser-Nicola	LIB	LIB	0.0
+0	Kamloops-North Thompson	LIB	LIB	0.0
+0	Kamloops-South Thompson	LIB	LIB	0.0
+0	Kelowna-Lake Country	LIB	LIB	0.0
+0	Kelowna-Mission	LIB	LIB	0.0
+0	Kelowna West	LIB	LIB	0.0
+0	Kootenay East	LIB	LIB	0.0
+0	Kootenay West	NDP	NDP	0.0
+0	Langford-Juan de Fuca	NDP	NDP	0.0
+0	Langley	NDP	NDP	0.0
+0	Langley East	NDP	NDP	0.0
+0	Maple Ridge-Mission	NDP	NDP	0.0
+0	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+0	Mid Island-Pacific Rim	NDP	NDP	0.0
+0	Nanaimo	NDP	NDP	0.0
+0	Nanaimo-North Cowichan	NDP	NDP	0.0
+0	Nechako Lakes	LIB	LIB	0.0
+0	Nelson-Creston	NDP	NDP	0.0
+0	New Westminster	NDP	NDP	0.0
+0	North Coast	NDP	NDP	0.0
+0	North Island	NDP	NDP	0.0
+0	North Vancouver-Lonsdale	NDP	NDP	0.0
+0	North Vancouver-Seymour	NDP	NDP	0.0
+0	Oak Bay-Gordon Head	NDP	NDP	0.0
+0	Parksville-Qualicum	NDP	NDP	0.0
+0	Peace River North	LIB	LIB	0.0
+0	Peace River South	LIB	LIB	0.0
+0	Penticton	LIB	LIB	0.0
+0	Port Coquitlam	NDP	NDP	0.0
+0	Port Moody-Coquitlam	NDP	NDP	0.0
+0	Powell River-Sunshine Coast	NDP	NDP	0.0
+0	Prince George-Mackenzie	LIB	LIB	0.0
+0	Prince George-Valemount	LIB	LIB	0.0
+0	Richmond North Centre	LIB	LIB	0.0
+0	Richmond-Queensborough	NDP	NDP	0.0
+0	Richmond South Centre	NDP	NDP	0.005
+0	Richmond-Steveston	NDP	NDP	0.0
+0	Saanich North and the Islands	GP	GP	0.0
+0	Saanich South	NDP	NDP	0.0
+0	Shuswap	LIB	LIB	0.0
+0	Skeena	LIB	LIB	0.0
+0	Stikine	NDP	NDP	0.0
+0	Surrey-Cloverdale	NDP	NDP	0.0
+0	Surrey-Fleetwood	NDP	NDP	0.0
+0	Surrey-Green Timbers	NDP	NDP	0.0
+0	Surrey-Guildford	NDP	NDP	0.0
+0	Surrey-Newton	NDP	NDP	0.0
+0	Surrey-Panorama	NDP	NDP	0.0
+0	Surrey South	LIB	LIB	0.0
+0	Surrey-Whalley	NDP	NDP	0.0
+0	Surrey-White Rock	LIB	LIB	0.0
+0	Vancouver-Fairview	NDP	NDP	0.0
+0	Vancouver-False Creek	NDP	NDP	0.0
+0	Vancouver-Fraserview	NDP	NDP	0.0
+0	Vancouver-Hastings	NDP	NDP	0.0
+0	Vancouver-Kensington	NDP	NDP	0.0
+0	Vancouver-Kingsway	NDP	NDP	0.0
+0	Vancouver-Langara	LIB	LIB	0.0
+0	Vancouver-Mount Pleasant	NDP	NDP	0.0
+0	Vancouver-Point Grey	NDP	NDP	0.0
+0	Vancouver-Quilchena	LIB	LIB	0.0
+0	Vancouver-West End	NDP	NDP	0.0
+0	Vernon-Monashee	LIB	LIB	0.0
+0	Victoria-Beacon Hill	NDP	NDP	0.0
+0	Victoria-Swan Lake	NDP	NDP	0.0
+0	West Vancouver-Capilano	LIB	LIB	0.0
+0	West Vancouver-Sea to Sky	GP	GP	0.0
+0.01	Abbotsford-Mission	LIB	LIB	0.0
+0.01	Abbotsford South	LIB	LIB	0.0
+0.01	Abbotsford West	LIB	LIB	0.0
+0.01	Boundary-Similkameen	NDP	NDP	0.0
+0.01	Burnaby-Deer Lake	NDP	NDP	0.0
+0.01	Burnaby-Edmonds	NDP	NDP	0.0
+0.01	Burnaby-Lougheed	NDP	NDP	0.0
+0.01	Burnaby North	NDP	NDP	0.0
+0.01	Cariboo-Chilcotin	LIB	LIB	0.0
+0.01	Cariboo North	LIB	LIB	0.0
+0.01	Chilliwack	NDP	NDP	0.0
+0.01	Chilliwack-Kent	NDP	LIB	0.989
+0.01	Columbia River-Revelstoke	LIB	LIB	0.0
+0.01	Coquitlam-Burke Mountain	NDP	NDP	0.0
+0.01	Coquitlam-Maillardville	NDP	NDP	0.0
+0.01	Courtenay-Comox	NDP	NDP	0.0
+0.01	Cowichan Valley	GP	GP	0.0
+0.01	Delta North	NDP	NDP	0.0
+0.01	Delta South	LIB	LIB	0.0
+0.01	Esquimalt-Metchosin	NDP	NDP	0.0
+0.01	Fraser-Nicola	LIB	LIB	0.0
+0.01	Kamloops-North Thompson	LIB	LIB	0.0
+0.01	Kamloops-South Thompson	LIB	LIB	0.0
+0.01	Kelowna-Lake Country	LIB	LIB	0.0
+0.01	Kelowna-Mission	LIB	LIB	0.0
+0.01	Kelowna West	LIB	LIB	0.0
+0.01	Kootenay East	LIB	LIB	0.0
+0.01	Kootenay West	NDP	NDP	0.0
+0.01	Langford-Juan de Fuca	NDP	NDP	0.0
+0.01	Langley	NDP	NDP	0.0
+0.01	Langley East	NDP	NDP	0.0
+0.01	Maple Ridge-Mission	NDP	NDP	0.0
+0.01	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+0.01	Mid Island-Pacific Rim	NDP	NDP	0.0
+0.01	Nanaimo	NDP	NDP	0.0
+0.01	Nanaimo-North Cowichan	NDP	NDP	0.0
+0.01	Nechako Lakes	LIB	LIB	0.0
+0.01	Nelson-Creston	NDP	NDP	0.0
+0.01	New Westminster	NDP	NDP	0.0
+0.01	North Coast	NDP	NDP	0.0
+0.01	North Island	NDP	NDP	0.0
+0.01	North Vancouver-Lonsdale	NDP	NDP	0.0
+0.01	North Vancouver-Seymour	NDP	NDP	0.0
+0.01	Oak Bay-Gordon Head	NDP	NDP	0.0
+0.01	Parksville-Qualicum	NDP	NDP	0.0
+0.01	Peace River North	LIB	LIB	0.0
+0.01	Peace River South	LIB	LIB	0.0
+0.01	Penticton	LIB	LIB	0.0
+0.01	Port Coquitlam	NDP	NDP	0.0
+0.01	Port Moody-Coquitlam	NDP	NDP	0.0
+0.01	Powell River-Sunshine Coast	NDP	NDP	0.0
+0.01	Prince George-Mackenzie	LIB	LIB	0.0
+0.01	Prince George-Valemount	LIB	LIB	0.0
+0.01	Richmond North Centre	LIB	LIB	0.0
+0.01	Richmond-Queensborough	NDP	NDP	0.0
+0.01	Richmond South Centre	NDP	LIB	0.837
+0.01	Richmond-Steveston	NDP	NDP	0.0
+0.01	Saanich North and the Islands	GP	GP	0.0
+0.01	Saanich South	NDP	NDP	0.0
+0.01	Shuswap	LIB	LIB	0.0
+0.01	Skeena	LIB	LIB	0.0
+0.01	Stikine	NDP	NDP	0.0
+0.01	Surrey-Cloverdale	NDP	NDP	0.0
+0.01	Surrey-Fleetwood	NDP	NDP	0.0
+0.01	Surrey-Green Timbers	NDP	NDP	0.0
+0.01	Surrey-Guildford	NDP	NDP	0.0
+0.01	Surrey-Newton	NDP	NDP	0.0
+0.01	Surrey-Panorama	NDP	NDP	0.0
+0.01	Surrey South	LIB	LIB	0.0
+0.01	Surrey-Whalley	NDP	NDP	0.0
+0.01	Surrey-White Rock	LIB	LIB	0.0
+0.01	Vancouver-Fairview	NDP	NDP	0.0
+0.01	Vancouver-False Creek	NDP	NDP	0.0
+0.01	Vancouver-Fraserview	NDP	NDP	0.0
+0.01	Vancouver-Hastings	NDP	NDP	0.0
+0.01	Vancouver-Kensington	NDP	NDP	0.0
+0.01	Vancouver-Kingsway	NDP	NDP	0.0
+0.01	Vancouver-Langara	LIB	LIB	0.0
+0.01	Vancouver-Mount Pleasant	NDP	NDP	0.0
+0.01	Vancouver-Point Grey	NDP	NDP	0.0
+0.01	Vancouver-Quilchena	LIB	LIB	0.0
+0.01	Vancouver-West End	NDP	NDP	0.0
+0.01	Vernon-Monashee	LIB	LIB	0.0
+0.01	Victoria-Beacon Hill	NDP	NDP	0.0
+0.01	Victoria-Swan Lake	NDP	NDP	0.0
+0.01	West Vancouver-Capilano	LIB	LIB	0.0
+0.01	West Vancouver-Sea to Sky	GP	GP	0.0
+0.02	Abbotsford-Mission	LIB	LIB	0.0
+0.02	Abbotsford South	LIB	LIB	0.0
+0.02	Abbotsford West	LIB	LIB	0.0
+0.02	Boundary-Similkameen	NDP	NDP	0.0
+0.02	Burnaby-Deer Lake	NDP	NDP	0.0
+0.02	Burnaby-Edmonds	NDP	NDP	0.0
+0.02	Burnaby-Lougheed	NDP	NDP	0.0
+0.02	Burnaby North	NDP	NDP	0.0
+0.02	Cariboo-Chilcotin	LIB	LIB	0.0
+0.02	Cariboo North	LIB	LIB	0.0
+0.02	Chilliwack	NDP	NDP	0.0
+0.02	Chilliwack-Kent	NDP	LIB	1.0
+0.02	Columbia River-Revelstoke	LIB	LIB	0.0
+0.02	Coquitlam-Burke Mountain	NDP	NDP	0.0
+0.02	Coquitlam-Maillardville	NDP	NDP	0.0
+0.02	Courtenay-Comox	NDP	NDP	0.0
+0.02	Cowichan Valley	GP	GP	0.0
+0.02	Delta North	NDP	NDP	0.0
+0.02	Delta South	LIB	LIB	0.0
+0.02	Esquimalt-Metchosin	NDP	NDP	0.0
+0.02	Fraser-Nicola	LIB	LIB	0.0
+0.02	Kamloops-North Thompson	LIB	LIB	0.0
+0.02	Kamloops-South Thompson	LIB	LIB	0.0
+0.02	Kelowna-Lake Country	LIB	LIB	0.0
+0.02	Kelowna-Mission	LIB	LIB	0.0
+0.02	Kelowna West	LIB	LIB	0.0
+0.02	Kootenay East	LIB	LIB	0.0
+0.02	Kootenay West	NDP	NDP	0.0
+0.02	Langford-Juan de Fuca	NDP	NDP	0.0
+0.02	Langley	NDP	NDP	0.0
+0.02	Langley East	NDP	LIB	0.681
+0.02	Maple Ridge-Mission	NDP	NDP	0.0
+0.02	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+0.02	Mid Island-Pacific Rim	NDP	NDP	0.0
+0.02	Nanaimo	NDP	NDP	0.0
+0.02	Nanaimo-North Cowichan	NDP	NDP	0.0
+0.02	Nechako Lakes	LIB	LIB	0.0
+0.02	Nelson-Creston	NDP	NDP	0.0
+0.02	New Westminster	NDP	NDP	0.0
+0.02	North Coast	NDP	NDP	0.0
+0.02	North Island	NDP	NDP	0.0
+0.02	North Vancouver-Lonsdale	NDP	NDP	0.0
+0.02	North Vancouver-Seymour	NDP	NDP	0.0
+0.02	Oak Bay-Gordon Head	NDP	NDP	0.0
+0.02	Parksville-Qualicum	NDP	NDP	0.0
+0.02	Peace River North	LIB	LIB	0.0
+0.02	Peace River South	LIB	LIB	0.0
+0.02	Penticton	LIB	LIB	0.0
+0.02	Port Coquitlam	NDP	NDP	0.0
+0.02	Port Moody-Coquitlam	NDP	NDP	0.0
+0.02	Powell River-Sunshine Coast	NDP	NDP	0.0
+0.02	Prince George-Mackenzie	LIB	LIB	0.0
+0.02	Prince George-Valemount	LIB	LIB	0.0
+0.02	Richmond North Centre	LIB	LIB	0.0
+0.02	Richmond-Queensborough	NDP	NDP	0.0
+0.02	Richmond South Centre	NDP	LIB	1.0
+0.02	Richmond-Steveston	NDP	NDP	0.048
+0.02	Saanich North and the Islands	GP	GP	0.0
+0.02	Saanich South	NDP	NDP	0.0
+0.02	Shuswap	LIB	LIB	0.0
+0.02	Skeena	LIB	LIB	0.0
+0.02	Stikine	NDP	NDP	0.0
+0.02	Surrey-Cloverdale	NDP	NDP	0.0
+0.02	Surrey-Fleetwood	NDP	NDP	0.0
+0.02	Surrey-Green Timbers	NDP	NDP	0.0
+0.02	Surrey-Guildford	NDP	NDP	0.0
+0.02	Surrey-Newton	NDP	NDP	0.0
+0.02	Surrey-Panorama	NDP	NDP	0.0
+0.02	Surrey South	LIB	LIB	0.0
+0.02	Surrey-Whalley	NDP	NDP	0.0
+0.02	Surrey-White Rock	LIB	LIB	0.0
+0.02	Vancouver-Fairview	NDP	NDP	0.0
+0.02	Vancouver-False Creek	NDP	NDP	0.0
+0.02	Vancouver-Fraserview	NDP	NDP	0.0
+0.02	Vancouver-Hastings	NDP	NDP	0.0
+0.02	Vancouver-Kensington	NDP	NDP	0.0
+0.02	Vancouver-Kingsway	NDP	NDP	0.0
+0.02	Vancouver-Langara	LIB	LIB	0.0
+0.02	Vancouver-Mount Pleasant	NDP	NDP	0.0
+0.02	Vancouver-Point Grey	NDP	NDP	0.0
+0.02	Vancouver-Quilchena	LIB	LIB	0.0
+0.02	Vancouver-West End	NDP	NDP	0.0
+0.02	Vernon-Monashee	LIB	LIB	0.0
+0.02	Victoria-Beacon Hill	NDP	NDP	0.0
+0.02	Victoria-Swan Lake	NDP	NDP	0.0
+0.02	West Vancouver-Capilano	LIB	LIB	0.0
+0.02	West Vancouver-Sea to Sky	GP	GP	0.0
+0.03	Abbotsford-Mission	LIB	LIB	0.0
+0.03	Abbotsford South	LIB	LIB	0.0
+0.03	Abbotsford West	LIB	LIB	0.0
+0.03	Boundary-Similkameen	NDP	NDP	0.0
+0.03	Burnaby-Deer Lake	NDP	NDP	0.0
+0.03	Burnaby-Edmonds	NDP	NDP	0.0
+0.03	Burnaby-Lougheed	NDP	NDP	0.0
+0.03	Burnaby North	NDP	NDP	0.0
+0.03	Cariboo-Chilcotin	LIB	LIB	0.0
+0.03	Cariboo North	LIB	LIB	0.0
+0.03	Chilliwack	NDP	NDP	0.0
+0.03	Chilliwack-Kent	NDP	LIB	1.0
+0.03	Columbia River-Revelstoke	LIB	LIB	0.0
+0.03	Coquitlam-Burke Mountain	NDP	NDP	0.0
+0.03	Coquitlam-Maillardville	NDP	NDP	0.0
+0.03	Courtenay-Comox	NDP	NDP	0.0
+0.03	Cowichan Valley	GP	GP	0.0
+0.03	Delta North	NDP	NDP	0.0
+0.03	Delta South	LIB	LIB	0.0
+0.03	Esquimalt-Metchosin	NDP	NDP	0.0
+0.03	Fraser-Nicola	LIB	LIB	0.0
+0.03	Kamloops-North Thompson	LIB	LIB	0.0
+0.03	Kamloops-South Thompson	LIB	LIB	0.0
+0.03	Kelowna-Lake Country	LIB	LIB	0.0
+0.03	Kelowna-Mission	LIB	LIB	0.0
+0.03	Kelowna West	LIB	LIB	0.0
+0.03	Kootenay East	LIB	LIB	0.0
+0.03	Kootenay West	NDP	NDP	0.0
+0.03	Langford-Juan de Fuca	NDP	NDP	0.0
+0.03	Langley	NDP	NDP	0.0
+0.03	Langley East	NDP	LIB	1.0
+0.03	Maple Ridge-Mission	NDP	NDP	0.0
+0.03	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+0.03	Mid Island-Pacific Rim	NDP	NDP	0.0
+0.03	Nanaimo	NDP	NDP	0.0
+0.03	Nanaimo-North Cowichan	NDP	NDP	0.0
+0.03	Nechako Lakes	LIB	LIB	0.0
+0.03	Nelson-Creston	NDP	NDP	0.0
+0.03	New Westminster	NDP	NDP	0.0
+0.03	North Coast	NDP	NDP	0.0
+0.03	North Island	NDP	NDP	0.0
+0.03	North Vancouver-Lonsdale	NDP	NDP	0.0
+0.03	North Vancouver-Seymour	NDP	NDP	0.0
+0.03	Oak Bay-Gordon Head	NDP	NDP	0.0
+0.03	Parksville-Qualicum	NDP	LIB	0.997
+0.03	Peace River North	LIB	LIB	0.0
+0.03	Peace River South	LIB	LIB	0.0
+0.03	Penticton	LIB	LIB	0.0
+0.03	Port Coquitlam	NDP	NDP	0.0
+0.03	Port Moody-Coquitlam	NDP	NDP	0.0
+0.03	Powell River-Sunshine Coast	NDP	NDP	0.0
+0.03	Prince George-Mackenzie	LIB	LIB	0.0
+0.03	Prince George-Valemount	LIB	LIB	0.0
+0.03	Richmond North Centre	LIB	LIB	0.0
+0.03	Richmond-Queensborough	NDP	NDP	0.007
+0.03	Richmond South Centre	NDP	LIB	1.0
+0.03	Richmond-Steveston	NDP	LIB	0.998
+0.03	Saanich North and the Islands	GP	GP	0.0
+0.03	Saanich South	NDP	NDP	0.0
+0.03	Shuswap	LIB	LIB	0.0
+0.03	Skeena	LIB	LIB	0.0
+0.03	Stikine	NDP	NDP	0.0
+0.03	Surrey-Cloverdale	NDP	NDP	0.0
+0.03	Surrey-Fleetwood	NDP	NDP	0.0
+0.03	Surrey-Green Timbers	NDP	NDP	0.0
+0.03	Surrey-Guildford	NDP	NDP	0.0
+0.03	Surrey-Newton	NDP	NDP	0.0
+0.03	Surrey-Panorama	NDP	NDP	0.0
+0.03	Surrey South	LIB	LIB	0.0
+0.03	Surrey-Whalley	NDP	NDP	0.0
+0.03	Surrey-White Rock	LIB	LIB	0.0
+0.03	Vancouver-Fairview	NDP	NDP	0.0
+0.03	Vancouver-False Creek	NDP	NDP	0.074
+0.03	Vancouver-Fraserview	NDP	NDP	0.0
+0.03	Vancouver-Hastings	NDP	NDP	0.0
+0.03	Vancouver-Kensington	NDP	NDP	0.0
+0.03	Vancouver-Kingsway	NDP	NDP	0.0
+0.03	Vancouver-Langara	LIB	LIB	0.0
+0.03	Vancouver-Mount Pleasant	NDP	NDP	0.0
+0.03	Vancouver-Point Grey	NDP	NDP	0.0
+0.03	Vancouver-Quilchena	LIB	LIB	0.0
+0.03	Vancouver-West End	NDP	NDP	0.0
+0.03	Vernon-Monashee	LIB	LIB	0.0
+0.03	Victoria-Beacon Hill	NDP	NDP	0.0
+0.03	Victoria-Swan Lake	NDP	NDP	0.0
+0.03	West Vancouver-Capilano	LIB	LIB	0.0
+0.03	West Vancouver-Sea to Sky	GP	GP	0.097
+0.04	Abbotsford-Mission	LIB	LIB	0.0
+0.04	Abbotsford South	LIB	LIB	0.0
+0.04	Abbotsford West	LIB	LIB	0.0
+0.04	Boundary-Similkameen	NDP	NDP	0.0
+0.04	Burnaby-Deer Lake	NDP	NDP	0.0
+0.04	Burnaby-Edmonds	NDP	NDP	0.0
+0.04	Burnaby-Lougheed	NDP	NDP	0.0
+0.04	Burnaby North	NDP	NDP	0.0
+0.04	Cariboo-Chilcotin	LIB	LIB	0.0
+0.04	Cariboo North	LIB	LIB	0.0
+0.04	Chilliwack	NDP	NDP	0.004
+0.04	Chilliwack-Kent	NDP	LIB	1.0
+0.04	Columbia River-Revelstoke	LIB	LIB	0.0
+0.04	Coquitlam-Burke Mountain	NDP	NDP	0.0
+0.04	Coquitlam-Maillardville	NDP	NDP	0.0
+0.04	Courtenay-Comox	NDP	NDP	0.0
+0.04	Cowichan Valley	GP	GP	0.0
+0.04	Delta North	NDP	NDP	0.0
+0.04	Delta South	LIB	LIB	0.0
+0.04	Esquimalt-Metchosin	NDP	NDP	0.0
+0.04	Fraser-Nicola	LIB	LIB	0.0
+0.04	Kamloops-North Thompson	LIB	LIB	0.0
+0.04	Kamloops-South Thompson	LIB	LIB	0.0
+0.04	Kelowna-Lake Country	LIB	LIB	0.0
+0.04	Kelowna-Mission	LIB	LIB	0.0
+0.04	Kelowna West	LIB	LIB	0.0
+0.04	Kootenay East	LIB	LIB	0.0
+0.04	Kootenay West	NDP	NDP	0.0
+0.04	Langford-Juan de Fuca	NDP	NDP	0.0
+0.04	Langley	NDP	NDP	0.0
+0.04	Langley East	NDP	LIB	1.0
+0.04	Maple Ridge-Mission	NDP	NDP	0.0
+0.04	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+0.04	Mid Island-Pacific Rim	NDP	NDP	0.0
+0.04	Nanaimo	NDP	NDP	0.0
+0.04	Nanaimo-North Cowichan	NDP	NDP	0.0
+0.04	Nechako Lakes	LIB	LIB	0.0
+0.04	Nelson-Creston	NDP	NDP	0.0
+0.04	New Westminster	NDP	NDP	0.0
+0.04	North Coast	NDP	NDP	0.0
+0.04	North Island	NDP	NDP	0.0
+0.04	North Vancouver-Lonsdale	NDP	NDP	0.0
+0.04	North Vancouver-Seymour	NDP	NDP	0.0
+0.04	Oak Bay-Gordon Head	NDP	NDP	0.0
+0.04	Parksville-Qualicum	NDP	LIB	1.0
+0.04	Peace River North	LIB	LIB	0.0
+0.04	Peace River South	LIB	LIB	0.0
+0.04	Penticton	LIB	LIB	0.0
+0.04	Port Coquitlam	NDP	NDP	0.0
+0.04	Port Moody-Coquitlam	NDP	NDP	0.0
+0.04	Powell River-Sunshine Coast	NDP	NDP	0.0
+0.04	Prince George-Mackenzie	LIB	LIB	0.0
+0.04	Prince George-Valemount	LIB	LIB	0.0
+0.04	Richmond North Centre	LIB	LIB	0.0
+0.04	Richmond-Queensborough	NDP	LIB	0.998
+0.04	Richmond South Centre	NDP	LIB	1.0
+0.04	Richmond-Steveston	NDP	LIB	1.0
+0.04	Saanich North and the Islands	GP	GP	0.0
+0.04	Saanich South	NDP	NDP	0.0
+0.04	Shuswap	LIB	LIB	0.0
+0.04	Skeena	LIB	LIB	0.0
+0.04	Stikine	NDP	NDP	0.0
+0.04	Surrey-Cloverdale	NDP	NDP	0.0
+0.04	Surrey-Fleetwood	NDP	NDP	0.0
+0.04	Surrey-Green Timbers	NDP	NDP	0.0
+0.04	Surrey-Guildford	NDP	NDP	0.0
+0.04	Surrey-Newton	NDP	NDP	0.0
+0.04	Surrey-Panorama	NDP	NDP	0.016
+0.04	Surrey South	LIB	LIB	0.0
+0.04	Surrey-Whalley	NDP	NDP	0.0
+0.04	Surrey-White Rock	LIB	LIB	0.0
+0.04	Vancouver-Fairview	NDP	NDP	0.0
+0.04	Vancouver-False Creek	NDP	LIB	1.0
+0.04	Vancouver-Fraserview	NDP	NDP	0.0
+0.04	Vancouver-Hastings	NDP	NDP	0.0
+0.04	Vancouver-Kensington	NDP	NDP	0.0
+0.04	Vancouver-Kingsway	NDP	NDP	0.0
+0.04	Vancouver-Langara	LIB	LIB	0.0
+0.04	Vancouver-Mount Pleasant	NDP	NDP	0.0
+0.04	Vancouver-Point Grey	NDP	NDP	0.0
+0.04	Vancouver-Quilchena	LIB	LIB	0.0
+0.04	Vancouver-West End	NDP	NDP	0.0
+0.04	Vernon-Monashee	LIB	LIB	0.0
+0.04	Victoria-Beacon Hill	NDP	NDP	0.0
+0.04	Victoria-Swan Lake	NDP	NDP	0.0
+0.04	West Vancouver-Capilano	LIB	LIB	0.0
+0.04	West Vancouver-Sea to Sky	GP	LIB	0.965
+0.05	Abbotsford-Mission	LIB	LIB	0.0
+0.05	Abbotsford South	LIB	LIB	0.0
+0.05	Abbotsford West	LIB	LIB	0.0
+0.05	Boundary-Similkameen	NDP	NDP	0.0
+0.05	Burnaby-Deer Lake	NDP	NDP	0.0
+0.05	Burnaby-Edmonds	NDP	NDP	0.0
+0.05	Burnaby-Lougheed	NDP	NDP	0.0
+0.05	Burnaby North	NDP	NDP	0.0
+0.05	Cariboo-Chilcotin	LIB	LIB	0.0
+0.05	Cariboo North	LIB	LIB	0.0
+0.05	Chilliwack	NDP	LIB	1.0
+0.05	Chilliwack-Kent	NDP	LIB	1.0
+0.05	Columbia River-Revelstoke	LIB	LIB	0.0
+0.05	Coquitlam-Burke Mountain	NDP	NDP	0.0
+0.05	Coquitlam-Maillardville	NDP	NDP	0.0
+0.05	Courtenay-Comox	NDP	NDP	0.0
+0.05	Cowichan Valley	GP	GP	0.0
+0.05	Delta North	NDP	NDP	0.0
+0.05	Delta South	LIB	LIB	0.0
+0.05	Esquimalt-Metchosin	NDP	NDP	0.0
+0.05	Fraser-Nicola	LIB	LIB	0.0
+0.05	Kamloops-North Thompson	LIB	LIB	0.0
+0.05	Kamloops-South Thompson	LIB	LIB	0.0
+0.05	Kelowna-Lake Country	LIB	LIB	0.0
+0.05	Kelowna-Mission	LIB	LIB	0.0
+0.05	Kelowna West	LIB	LIB	0.0
+0.05	Kootenay East	LIB	LIB	0.0
+0.05	Kootenay West	NDP	NDP	0.0
+0.05	Langford-Juan de Fuca	NDP	NDP	0.0
+0.05	Langley	NDP	LIB	0.698
+0.05	Langley East	NDP	LIB	1.0
+0.05	Maple Ridge-Mission	NDP	NDP	0.0
+0.05	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+0.05	Mid Island-Pacific Rim	NDP	NDP	0.0
+0.05	Nanaimo	NDP	NDP	0.0
+0.05	Nanaimo-North Cowichan	NDP	NDP	0.0
+0.05	Nechako Lakes	LIB	LIB	0.0
+0.05	Nelson-Creston	NDP	NDP	0.0
+0.05	New Westminster	NDP	NDP	0.0
+0.05	North Coast	NDP	NDP	0.0
+0.05	North Island	NDP	NDP	0.0
+0.05	North Vancouver-Lonsdale	NDP	NDP	0.0
+0.05	North Vancouver-Seymour	NDP	LIB	0.925
+0.05	Oak Bay-Gordon Head	NDP	NDP	0.0
+0.05	Parksville-Qualicum	NDP	LIB	1.0
+0.05	Peace River North	LIB	LIB	0.0
+0.05	Peace River South	LIB	LIB	0.0
+0.05	Penticton	LIB	LIB	0.0
+0.05	Port Coquitlam	NDP	NDP	0.0
+0.05	Port Moody-Coquitlam	NDP	NDP	0.0
+0.05	Powell River-Sunshine Coast	NDP	NDP	0.0
+0.05	Prince George-Mackenzie	LIB	LIB	0.0
+0.05	Prince George-Valemount	LIB	LIB	0.0
+0.05	Richmond North Centre	LIB	LIB	0.0
+0.05	Richmond-Queensborough	NDP	LIB	1.0
+0.05	Richmond South Centre	NDP	LIB	1.0
+0.05	Richmond-Steveston	NDP	LIB	1.0
+0.05	Saanich North and the Islands	GP	GP	0.0
+0.05	Saanich South	NDP	NDP	0.0
+0.05	Shuswap	LIB	LIB	0.0
+0.05	Skeena	LIB	LIB	0.0
+0.05	Stikine	NDP	NDP	0.0
+0.05	Surrey-Cloverdale	NDP	NDP	0.0
+0.05	Surrey-Fleetwood	NDP	NDP	0.0
+0.05	Surrey-Green Timbers	NDP	NDP	0.004
+0.05	Surrey-Guildford	NDP	NDP	0.0
+0.05	Surrey-Newton	NDP	NDP	0.0
+0.05	Surrey-Panorama	NDP	LIB	1.0
+0.05	Surrey South	LIB	LIB	0.0
+0.05	Surrey-Whalley	NDP	NDP	0.0
+0.05	Surrey-White Rock	LIB	LIB	0.0
+0.05	Vancouver-Fairview	NDP	NDP	0.0
+0.05	Vancouver-False Creek	NDP	LIB	1.0
+0.05	Vancouver-Fraserview	NDP	NDP	0.0
+0.05	Vancouver-Hastings	NDP	NDP	0.0
+0.05	Vancouver-Kensington	NDP	NDP	0.0
+0.05	Vancouver-Kingsway	NDP	NDP	0.0
+0.05	Vancouver-Langara	LIB	LIB	0.0
+0.05	Vancouver-Mount Pleasant	NDP	NDP	0.0
+0.05	Vancouver-Point Grey	NDP	NDP	0.0
+0.05	Vancouver-Quilchena	LIB	LIB	0.0
+0.05	Vancouver-West End	NDP	NDP	0.0
+0.05	Vernon-Monashee	LIB	LIB	0.0
+0.05	Victoria-Beacon Hill	NDP	NDP	0.0
+0.05	Victoria-Swan Lake	NDP	NDP	0.0
+0.05	West Vancouver-Capilano	LIB	LIB	0.0
+0.05	West Vancouver-Sea to Sky	GP	LIB	1.0
+0.06	Abbotsford-Mission	LIB	LIB	0.0
+0.06	Abbotsford South	LIB	LIB	0.0
+0.06	Abbotsford West	LIB	LIB	0.0
+0.06	Boundary-Similkameen	NDP	LIB	0.987
+0.06	Burnaby-Deer Lake	NDP	NDP	0.0
+0.06	Burnaby-Edmonds	NDP	NDP	0.0
+0.06	Burnaby-Lougheed	NDP	NDP	0.0
+0.06	Burnaby North	NDP	NDP	0.0
+0.06	Cariboo-Chilcotin	LIB	LIB	0.0
+0.06	Cariboo North	LIB	LIB	0.0
+0.06	Chilliwack	NDP	LIB	1.0
+0.06	Chilliwack-Kent	NDP	LIB	1.0
+0.06	Columbia River-Revelstoke	LIB	LIB	0.0
+0.06	Coquitlam-Burke Mountain	NDP	NDP	0.0
+0.06	Coquitlam-Maillardville	NDP	NDP	0.0
+0.06	Courtenay-Comox	NDP	NDP	0.0
+0.06	Cowichan Valley	GP	GP	0.0
+0.06	Delta North	NDP	NDP	0.0
+0.06	Delta South	LIB	LIB	0.0
+0.06	Esquimalt-Metchosin	NDP	NDP	0.0
+0.06	Fraser-Nicola	LIB	LIB	0.0
+0.06	Kamloops-North Thompson	LIB	LIB	0.0
+0.06	Kamloops-South Thompson	LIB	LIB	0.0
+0.06	Kelowna-Lake Country	LIB	LIB	0.0
+0.06	Kelowna-Mission	LIB	LIB	0.0
+0.06	Kelowna West	LIB	LIB	0.0
+0.06	Kootenay East	LIB	LIB	0.0
+0.06	Kootenay West	NDP	NDP	0.0
+0.06	Langford-Juan de Fuca	NDP	NDP	0.0
+0.06	Langley	NDP	LIB	1.0
+0.06	Langley East	NDP	LIB	1.0
+0.06	Maple Ridge-Mission	NDP	NDP	0.0
+0.06	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+0.06	Mid Island-Pacific Rim	NDP	NDP	0.0
+0.06	Nanaimo	NDP	NDP	0.0
+0.06	Nanaimo-North Cowichan	NDP	NDP	0.0
+0.06	Nechako Lakes	LIB	LIB	0.0
+0.06	Nelson-Creston	NDP	NDP	0.0
+0.06	New Westminster	NDP	NDP	0.0
+0.06	North Coast	NDP	NDP	0.0
+0.06	North Island	NDP	NDP	0.0
+0.06	North Vancouver-Lonsdale	NDP	NDP	0.0
+0.06	North Vancouver-Seymour	NDP	LIB	1.0
+0.06	Oak Bay-Gordon Head	NDP	NDP	0.0
+0.06	Parksville-Qualicum	NDP	LIB	1.0
+0.06	Peace River North	LIB	LIB	0.0
+0.06	Peace River South	LIB	LIB	0.0
+0.06	Penticton	LIB	LIB	0.0
+0.06	Port Coquitlam	NDP	NDP	0.0
+0.06	Port Moody-Coquitlam	NDP	NDP	0.0
+0.06	Powell River-Sunshine Coast	NDP	NDP	0.0
+0.06	Prince George-Mackenzie	LIB	LIB	0.0
+0.06	Prince George-Valemount	LIB	LIB	0.0
+0.06	Richmond North Centre	LIB	LIB	0.0
+0.06	Richmond-Queensborough	NDP	LIB	1.0
+0.06	Richmond South Centre	NDP	LIB	1.0
+0.06	Richmond-Steveston	NDP	LIB	1.0
+0.06	Saanich North and the Islands	GP	GP	0.0
+0.06	Saanich South	NDP	NDP	0.0
+0.06	Shuswap	LIB	LIB	0.0
+0.06	Skeena	LIB	LIB	0.0
+0.06	Stikine	NDP	NDP	0.0
+0.06	Surrey-Cloverdale	NDP	NDP	0.0
+0.06	Surrey-Fleetwood	NDP	NDP	0.0
+0.06	Surrey-Green Timbers	NDP	LIB	0.929
+0.06	Surrey-Guildford	NDP	NDP	0.0
+0.06	Surrey-Newton	NDP	NDP	0.0
+0.06	Surrey-Panorama	NDP	LIB	1.0
+0.06	Surrey South	LIB	LIB	0.0
+0.06	Surrey-Whalley	NDP	NDP	0.0
+0.06	Surrey-White Rock	LIB	LIB	0.0
+0.06	Vancouver-Fairview	NDP	NDP	0.0
+0.06	Vancouver-False Creek	NDP	LIB	1.0
+0.06	Vancouver-Fraserview	NDP	NDP	0.0
+0.06	Vancouver-Hastings	NDP	NDP	0.0
+0.06	Vancouver-Kensington	NDP	NDP	0.0
+0.06	Vancouver-Kingsway	NDP	NDP	0.0
+0.06	Vancouver-Langara	LIB	LIB	0.0
+0.06	Vancouver-Mount Pleasant	NDP	NDP	0.0
+0.06	Vancouver-Point Grey	NDP	NDP	0.0
+0.06	Vancouver-Quilchena	LIB	LIB	0.0
+0.06	Vancouver-West End	NDP	NDP	0.0
+0.06	Vernon-Monashee	LIB	LIB	0.0
+0.06	Victoria-Beacon Hill	NDP	NDP	0.0
+0.06	Victoria-Swan Lake	NDP	NDP	0.0
+0.06	West Vancouver-Capilano	LIB	LIB	0.0
+0.06	West Vancouver-Sea to Sky	GP	LIB	1.0
+0.07	Abbotsford-Mission	LIB	LIB	0.0
+0.07	Abbotsford South	LIB	LIB	0.0
+0.07	Abbotsford West	LIB	LIB	0.0
+0.07	Boundary-Similkameen	NDP	LIB	1.0
+0.07	Burnaby-Deer Lake	NDP	NDP	0.0
+0.07	Burnaby-Edmonds	NDP	NDP	0.0
+0.07	Burnaby-Lougheed	NDP	NDP	0.0
+0.07	Burnaby North	NDP	NDP	0.0
+0.07	Cariboo-Chilcotin	LIB	LIB	0.0
+0.07	Cariboo North	LIB	LIB	0.0
+0.07	Chilliwack	NDP	LIB	1.0
+0.07	Chilliwack-Kent	NDP	LIB	1.0
+0.07	Columbia River-Revelstoke	LIB	LIB	0.0
+0.07	Coquitlam-Burke Mountain	NDP	NDP	0.0
+0.07	Coquitlam-Maillardville	NDP	NDP	0.0
+0.07	Courtenay-Comox	NDP	NDP	0.0
+0.07	Cowichan Valley	GP	GP	0.0
+0.07	Delta North	NDP	NDP	0.0
+0.07	Delta South	LIB	LIB	0.0
+0.07	Esquimalt-Metchosin	NDP	NDP	0.0
+0.07	Fraser-Nicola	LIB	LIB	0.0
+0.07	Kamloops-North Thompson	LIB	LIB	0.0
+0.07	Kamloops-South Thompson	LIB	LIB	0.0
+0.07	Kelowna-Lake Country	LIB	LIB	0.0
+0.07	Kelowna-Mission	LIB	LIB	0.0
+0.07	Kelowna West	LIB	LIB	0.0
+0.07	Kootenay East	LIB	LIB	0.0
+0.07	Kootenay West	NDP	NDP	0.0
+0.07	Langford-Juan de Fuca	NDP	NDP	0.0
+0.07	Langley	NDP	LIB	1.0
+0.07	Langley East	NDP	LIB	1.0
+0.07	Maple Ridge-Mission	NDP	NDP	0.0
+0.07	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+0.07	Mid Island-Pacific Rim	NDP	NDP	0.0
+0.07	Nanaimo	NDP	NDP	0.0
+0.07	Nanaimo-North Cowichan	NDP	NDP	0.0
+0.07	Nechako Lakes	LIB	LIB	0.0
+0.07	Nelson-Creston	NDP	GP	0.588
+0.07	New Westminster	NDP	NDP	0.0
+0.07	North Coast	NDP	NDP	0.0
+0.07	North Island	NDP	NDP	0.0
+0.07	North Vancouver-Lonsdale	NDP	NDP	0.0
+0.07	North Vancouver-Seymour	NDP	LIB	1.0
+0.07	Oak Bay-Gordon Head	NDP	NDP	0.0
+0.07	Parksville-Qualicum	NDP	LIB	1.0
+0.07	Peace River North	LIB	LIB	0.0
+0.07	Peace River South	LIB	LIB	0.0
+0.07	Penticton	LIB	LIB	0.0
+0.07	Port Coquitlam	NDP	NDP	0.0
+0.07	Port Moody-Coquitlam	NDP	NDP	0.0
+0.07	Powell River-Sunshine Coast	NDP	NDP	0.0
+0.07	Prince George-Mackenzie	LIB	LIB	0.0
+0.07	Prince George-Valemount	LIB	LIB	0.0
+0.07	Richmond North Centre	LIB	LIB	0.0
+0.07	Richmond-Queensborough	NDP	LIB	1.0
+0.07	Richmond South Centre	NDP	LIB	1.0
+0.07	Richmond-Steveston	NDP	LIB	1.0
+0.07	Saanich North and the Islands	GP	GP	0.0
+0.07	Saanich South	NDP	NDP	0.0
+0.07	Shuswap	LIB	LIB	0.0
+0.07	Skeena	LIB	LIB	0.0
+0.07	Stikine	NDP	NDP	0.0
+0.07	Surrey-Cloverdale	NDP	NDP	0.254
+0.07	Surrey-Fleetwood	NDP	NDP	0.0
+0.07	Surrey-Green Timbers	NDP	LIB	1.0
+0.07	Surrey-Guildford	NDP	NDP	0.0
+0.07	Surrey-Newton	NDP	NDP	0.0
+0.07	Surrey-Panorama	NDP	LIB	1.0
+0.07	Surrey South	LIB	LIB	0.0
+0.07	Surrey-Whalley	NDP	NDP	0.0
+0.07	Surrey-White Rock	LIB	LIB	0.0
+0.07	Vancouver-Fairview	NDP	NDP	0.0
+0.07	Vancouver-False Creek	NDP	LIB	1.0
+0.07	Vancouver-Fraserview	NDP	NDP	0.0
+0.07	Vancouver-Hastings	NDP	NDP	0.0
+0.07	Vancouver-Kensington	NDP	NDP	0.0
+0.07	Vancouver-Kingsway	NDP	NDP	0.0
+0.07	Vancouver-Langara	LIB	LIB	0.0
+0.07	Vancouver-Mount Pleasant	NDP	NDP	0.0
+0.07	Vancouver-Point Grey	NDP	LIB	0.809
+0.07	Vancouver-Quilchena	LIB	LIB	0.0
+0.07	Vancouver-West End	NDP	NDP	0.0
+0.07	Vernon-Monashee	LIB	LIB	0.0
+0.07	Victoria-Beacon Hill	NDP	NDP	0.0
+0.07	Victoria-Swan Lake	NDP	NDP	0.0
+0.07	West Vancouver-Capilano	LIB	LIB	0.0
+0.07	West Vancouver-Sea to Sky	GP	LIB	1.0
+0.08	Abbotsford-Mission	LIB	LIB	0.0
+0.08	Abbotsford South	LIB	LIB	0.0
+0.08	Abbotsford West	LIB	LIB	0.0
+0.08	Boundary-Similkameen	NDP	LIB	1.0
+0.08	Burnaby-Deer Lake	NDP	NDP	0.0
+0.08	Burnaby-Edmonds	NDP	NDP	0.0
+0.08	Burnaby-Lougheed	NDP	NDP	0.0
+0.08	Burnaby North	NDP	NDP	0.0
+0.08	Cariboo-Chilcotin	LIB	LIB	0.0
+0.08	Cariboo North	LIB	LIB	0.0
+0.08	Chilliwack	NDP	LIB	1.0
+0.08	Chilliwack-Kent	NDP	LIB	1.0
+0.08	Columbia River-Revelstoke	LIB	LIB	0.0
+0.08	Coquitlam-Burke Mountain	NDP	LIB	0.755
+0.08	Coquitlam-Maillardville	NDP	NDP	0.0
+0.08	Courtenay-Comox	NDP	NDP	0.0
+0.08	Cowichan Valley	GP	GP	0.0
+0.08	Delta North	NDP	NDP	0.0
+0.08	Delta South	LIB	LIB	0.0
+0.08	Esquimalt-Metchosin	NDP	NDP	0.0
+0.08	Fraser-Nicola	LIB	LIB	0.0
+0.08	Kamloops-North Thompson	LIB	LIB	0.0
+0.08	Kamloops-South Thompson	LIB	LIB	0.0
+0.08	Kelowna-Lake Country	LIB	LIB	0.0
+0.08	Kelowna-Mission	LIB	LIB	0.0
+0.08	Kelowna West	LIB	LIB	0.0
+0.08	Kootenay East	LIB	LIB	0.0
+0.08	Kootenay West	NDP	NDP	0.0
+0.08	Langford-Juan de Fuca	NDP	NDP	0.0
+0.08	Langley	NDP	LIB	1.0
+0.08	Langley East	NDP	LIB	1.0
+0.08	Maple Ridge-Mission	NDP	NDP	0.0
+0.08	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+0.08	Mid Island-Pacific Rim	NDP	NDP	0.0
+0.08	Nanaimo	NDP	NDP	0.0
+0.08	Nanaimo-North Cowichan	NDP	NDP	0.0
+0.08	Nechako Lakes	LIB	LIB	0.0
+0.08	Nelson-Creston	NDP	GP	1.0
+0.08	New Westminster	NDP	NDP	0.0
+0.08	North Coast	NDP	NDP	0.0
+0.08	North Island	NDP	NDP	0.0
+0.08	North Vancouver-Lonsdale	NDP	NDP	0.0
+0.08	North Vancouver-Seymour	NDP	LIB	1.0
+0.08	Oak Bay-Gordon Head	NDP	NDP	0.0
+0.08	Parksville-Qualicum	NDP	LIB	1.0
+0.08	Peace River North	LIB	LIB	0.0
+0.08	Peace River South	LIB	LIB	0.0
+0.08	Penticton	LIB	LIB	0.0
+0.08	Port Coquitlam	NDP	NDP	0.0
+0.08	Port Moody-Coquitlam	NDP	NDP	0.0
+0.08	Powell River-Sunshine Coast	NDP	NDP	0.0
+0.08	Prince George-Mackenzie	LIB	LIB	0.0
+0.08	Prince George-Valemount	LIB	LIB	0.0
+0.08	Richmond North Centre	LIB	LIB	0.0
+0.08	Richmond-Queensborough	NDP	LIB	1.0
+0.08	Richmond South Centre	NDP	LIB	1.0
+0.08	Richmond-Steveston	NDP	LIB	1.0
+0.08	Saanich North and the Islands	GP	GP	0.0
+0.08	Saanich South	NDP	NDP	0.0
+0.08	Shuswap	LIB	LIB	0.0
+0.08	Skeena	LIB	LIB	0.0
+0.08	Stikine	NDP	NDP	0.0
+0.08	Surrey-Cloverdale	NDP	LIB	1.0
+0.08	Surrey-Fleetwood	NDP	NDP	0.0
+0.08	Surrey-Green Timbers	NDP	LIB	1.0
+0.08	Surrey-Guildford	NDP	NDP	0.0
+0.08	Surrey-Newton	NDP	NDP	0.0
+0.08	Surrey-Panorama	NDP	LIB	1.0
+0.08	Surrey South	LIB	LIB	0.0
+0.08	Surrey-Whalley	NDP	NDP	0.0
+0.08	Surrey-White Rock	LIB	LIB	0.0
+0.08	Vancouver-Fairview	NDP	NDP	0.0
+0.08	Vancouver-False Creek	NDP	LIB	1.0
+0.08	Vancouver-Fraserview	NDP	NDP	0.0
+0.08	Vancouver-Hastings	NDP	NDP	0.0
+0.08	Vancouver-Kensington	NDP	NDP	0.0
+0.08	Vancouver-Kingsway	NDP	NDP	0.0
+0.08	Vancouver-Langara	LIB	LIB	0.0
+0.08	Vancouver-Mount Pleasant	NDP	NDP	0.0
+0.08	Vancouver-Point Grey	NDP	LIB	1.0
+0.08	Vancouver-Quilchena	LIB	LIB	0.0
+0.08	Vancouver-West End	NDP	NDP	0.0
+0.08	Vernon-Monashee	LIB	LIB	0.0
+0.08	Victoria-Beacon Hill	NDP	NDP	0.0
+0.08	Victoria-Swan Lake	NDP	NDP	0.0
+0.08	West Vancouver-Capilano	LIB	LIB	0.0
+0.08	West Vancouver-Sea to Sky	GP	LIB	1.0
+0.09	Abbotsford-Mission	LIB	LIB	0.0
+0.09	Abbotsford South	LIB	LIB	0.0
+0.09	Abbotsford West	LIB	LIB	0.0
+0.09	Boundary-Similkameen	NDP	LIB	1.0
+0.09	Burnaby-Deer Lake	NDP	NDP	0.0
+0.09	Burnaby-Edmonds	NDP	NDP	0.0
+0.09	Burnaby-Lougheed	NDP	NDP	0.0
+0.09	Burnaby North	NDP	NDP	0.0
+0.09	Cariboo-Chilcotin	LIB	LIB	0.0
+0.09	Cariboo North	LIB	LIB	0.0
+0.09	Chilliwack	NDP	LIB	1.0
+0.09	Chilliwack-Kent	NDP	LIB	1.0
+0.09	Columbia River-Revelstoke	LIB	LIB	0.0
+0.09	Coquitlam-Burke Mountain	NDP	LIB	1.0
+0.09	Coquitlam-Maillardville	NDP	NDP	0.0
+0.09	Courtenay-Comox	NDP	LIB	0.991
+0.09	Cowichan Valley	GP	GP	0.0
+0.09	Delta North	NDP	NDP	0.0
+0.09	Delta South	LIB	LIB	0.0
+0.09	Esquimalt-Metchosin	NDP	NDP	0.0
+0.09	Fraser-Nicola	LIB	LIB	0.0
+0.09	Kamloops-North Thompson	LIB	LIB	0.0
+0.09	Kamloops-South Thompson	LIB	LIB	0.0
+0.09	Kelowna-Lake Country	LIB	LIB	0.0
+0.09	Kelowna-Mission	LIB	LIB	0.0
+0.09	Kelowna West	LIB	LIB	0.0
+0.09	Kootenay East	LIB	LIB	0.0
+0.09	Kootenay West	NDP	NDP	0.0
+0.09	Langford-Juan de Fuca	NDP	NDP	0.0
+0.09	Langley	NDP	LIB	1.0
+0.09	Langley East	NDP	LIB	1.0
+0.09	Maple Ridge-Mission	NDP	NDP	0.252
+0.09	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+0.09	Mid Island-Pacific Rim	NDP	NDP	0.0
+0.09	Nanaimo	NDP	NDP	0.0
+0.09	Nanaimo-North Cowichan	NDP	NDP	0.0
+0.09	Nechako Lakes	LIB	LIB	0.0
+0.09	Nelson-Creston	NDP	LIB	1.0
+0.09	New Westminster	NDP	NDP	0.0
+0.09	North Coast	NDP	NDP	0.0
+0.09	North Island	NDP	NDP	0.0
+0.09	North Vancouver-Lonsdale	NDP	NDP	0.0
+0.09	North Vancouver-Seymour	NDP	LIB	1.0
+0.09	Oak Bay-Gordon Head	NDP	NDP	0.0
+0.09	Parksville-Qualicum	NDP	LIB	1.0
+0.09	Peace River North	LIB	LIB	0.0
+0.09	Peace River South	LIB	LIB	0.0
+0.09	Penticton	LIB	LIB	0.0
+0.09	Port Coquitlam	NDP	NDP	0.0
+0.09	Port Moody-Coquitlam	NDP	NDP	0.129
+0.09	Powell River-Sunshine Coast	NDP	NDP	0.0
+0.09	Prince George-Mackenzie	LIB	LIB	0.0
+0.09	Prince George-Valemount	LIB	LIB	0.0
+0.09	Richmond North Centre	LIB	LIB	0.0
+0.09	Richmond-Queensborough	NDP	LIB	1.0
+0.09	Richmond South Centre	NDP	LIB	1.0
+0.09	Richmond-Steveston	NDP	LIB	1.0
+0.09	Saanich North and the Islands	GP	GP	0.0
+0.09	Saanich South	NDP	NDP	0.0
+0.09	Shuswap	LIB	LIB	0.0
+0.09	Skeena	LIB	LIB	0.0
+0.09	Stikine	NDP	NDP	0.0
+0.09	Surrey-Cloverdale	NDP	LIB	1.0
+0.09	Surrey-Fleetwood	NDP	NDP	0.0
+0.09	Surrey-Green Timbers	NDP	LIB	1.0
+0.09	Surrey-Guildford	NDP	NDP	0.0
+0.09	Surrey-Newton	NDP	NDP	0.0
+0.09	Surrey-Panorama	NDP	LIB	1.0
+0.09	Surrey South	LIB	LIB	0.0
+0.09	Surrey-Whalley	NDP	NDP	0.0
+0.09	Surrey-White Rock	LIB	LIB	0.0
+0.09	Vancouver-Fairview	NDP	NDP	0.0
+0.09	Vancouver-False Creek	NDP	LIB	1.0
+0.09	Vancouver-Fraserview	NDP	NDP	0.0
+0.09	Vancouver-Hastings	NDP	NDP	0.0
+0.09	Vancouver-Kensington	NDP	NDP	0.0
+0.09	Vancouver-Kingsway	NDP	NDP	0.0
+0.09	Vancouver-Langara	LIB	LIB	0.0
+0.09	Vancouver-Mount Pleasant	NDP	NDP	0.0
+0.09	Vancouver-Point Grey	NDP	LIB	1.0
+0.09	Vancouver-Quilchena	LIB	LIB	0.0
+0.09	Vancouver-West End	NDP	NDP	0.0
+0.09	Vernon-Monashee	LIB	LIB	0.0
+0.09	Victoria-Beacon Hill	NDP	NDP	0.0
+0.09	Victoria-Swan Lake	NDP	NDP	0.0
+0.09	West Vancouver-Capilano	LIB	LIB	0.0
+0.09	West Vancouver-Sea to Sky	GP	LIB	1.0
+0.1	Abbotsford-Mission	LIB	LIB	0.0
+0.1	Abbotsford South	LIB	LIB	0.0
+0.1	Abbotsford West	LIB	LIB	0.0
+0.1	Boundary-Similkameen	NDP	LIB	1.0
+0.1	Burnaby-Deer Lake	NDP	NDP	0.0
+0.1	Burnaby-Edmonds	NDP	NDP	0.0
+0.1	Burnaby-Lougheed	NDP	NDP	0.0
+0.1	Burnaby North	NDP	NDP	0.0
+0.1	Cariboo-Chilcotin	LIB	LIB	0.0
+0.1	Cariboo North	LIB	LIB	0.0
+0.1	Chilliwack	NDP	LIB	1.0
+0.1	Chilliwack-Kent	NDP	LIB	1.0
+0.1	Columbia River-Revelstoke	LIB	LIB	0.0
+0.1	Coquitlam-Burke Mountain	NDP	LIB	1.0
+0.1	Coquitlam-Maillardville	NDP	NDP	0.0
+0.1	Courtenay-Comox	NDP	LIB	1.0
+0.1	Cowichan Valley	GP	GP	0.0
+0.1	Delta North	NDP	NDP	0.147
+0.1	Delta South	LIB	LIB	0.0
+0.1	Esquimalt-Metchosin	NDP	NDP	0.0
+0.1	Fraser-Nicola	LIB	LIB	0.0
+0.1	Kamloops-North Thompson	LIB	LIB	0.0
+0.1	Kamloops-South Thompson	LIB	LIB	0.0
+0.1	Kelowna-Lake Country	LIB	LIB	0.0
+0.1	Kelowna-Mission	LIB	LIB	0.0
+0.1	Kelowna West	LIB	LIB	0.0
+0.1	Kootenay East	LIB	LIB	0.0
+0.1	Kootenay West	NDP	NDP	0.0
+0.1	Langford-Juan de Fuca	NDP	NDP	0.0
+0.1	Langley	NDP	LIB	1.0
+0.1	Langley East	NDP	LIB	1.0
+0.1	Maple Ridge-Mission	NDP	LIB	1.0
+0.1	Maple Ridge-Pitt Meadows	NDP	NDP	0.0
+0.1	Mid Island-Pacific Rim	NDP	NDP	0.0
+0.1	Nanaimo	NDP	NDP	0.0
+0.1	Nanaimo-North Cowichan	NDP	NDP	0.0
+0.1	Nechako Lakes	LIB	LIB	0.0
+0.1	Nelson-Creston	NDP	LIB	1.0
+0.1	New Westminster	NDP	NDP	0.0
+0.1	North Coast	NDP	NDP	0.0
+0.1	North Island	NDP	NDP	0.0
+0.1	North Vancouver-Lonsdale	NDP	NDP	0.0
+0.1	North Vancouver-Seymour	NDP	LIB	1.0
+0.1	Oak Bay-Gordon Head	NDP	NDP	0.0
+0.1	Parksville-Qualicum	NDP	LIB	1.0
+0.1	Peace River North	LIB	LIB	0.0
+0.1	Peace River South	LIB	LIB	0.0
+0.1	Penticton	LIB	LIB	0.0
+0.1	Port Coquitlam	NDP	NDP	0.0
+0.1	Port Moody-Coquitlam	NDP	LIB	1.0
+0.1	Powell River-Sunshine Coast	NDP	NDP	0.0
+0.1	Prince George-Mackenzie	LIB	LIB	0.0
+0.1	Prince George-Valemount	LIB	LIB	0.0
+0.1	Richmond North Centre	LIB	LIB	0.0
+0.1	Richmond-Queensborough	NDP	LIB	1.0
+0.1	Richmond South Centre	NDP	LIB	1.0
+0.1	Richmond-Steveston	NDP	LIB	1.0
+0.1	Saanich North and the Islands	GP	GP	0.0
+0.1	Saanich South	NDP	NDP	0.0
+0.1	Shuswap	LIB	LIB	0.0
+0.1	Skeena	LIB	LIB	0.0
+0.1	Stikine	NDP	NDP	0.0
+0.1	Surrey-Cloverdale	NDP	LIB	1.0
+0.1	Surrey-Fleetwood	NDP	NDP	0.0
+0.1	Surrey-Green Timbers	NDP	LIB	1.0
+0.1	Surrey-Guildford	NDP	NDP	0.0
+0.1	Surrey-Newton	NDP	NDP	0.0
+0.1	Surrey-Panorama	NDP	LIB	1.0
+0.1	Surrey South	LIB	LIB	0.0
+0.1	Surrey-Whalley	NDP	NDP	0.0
+0.1	Surrey-White Rock	LIB	LIB	0.0
+0.1	Vancouver-Fairview	NDP	NDP	0.0
+0.1	Vancouver-False Creek	NDP	LIB	1.0
+0.1	Vancouver-Fraserview	NDP	NDP	0.104
+0.1	Vancouver-Hastings	NDP	NDP	0.0
+0.1	Vancouver-Kensington	NDP	NDP	0.0
+0.1	Vancouver-Kingsway	NDP	NDP	0.0
+0.1	Vancouver-Langara	LIB	LIB	0.0
+0.1	Vancouver-Mount Pleasant	NDP	NDP	0.0
+0.1	Vancouver-Point Grey	NDP	LIB	1.0
+0.1	Vancouver-Quilchena	LIB	LIB	0.0
+0.1	Vancouver-West End	NDP	NDP	0.0
+0.1	Vernon-Monashee	LIB	LIB	0.0
+0.1	Victoria-Beacon Hill	NDP	NDP	0.0
+0.1	Victoria-Swan Lake	NDP	NDP	0.0
+0.1	West Vancouver-Capilano	LIB	LIB	0.0
+0.1	West Vancouver-Sea to Sky	GP	LIB	1.0
