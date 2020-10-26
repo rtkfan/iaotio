@@ -7,8 +7,8 @@ import copy
 locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 
 UNCOUNTED_BALLOTS = 600000  # absentee/mail-in ballots, est. from Elections BC
-NUM_TRIALS = 1000  # number of trials per electoral district
-BIAS = -0.1 # bias (+ is toward BC Libs, - is toward BC NDP)
+NUM_TRIALS = 100  # number of trials per electoral district
+BIAS = 0.02 # bias (+ is toward BC Libs, - is toward BC NDP)
 
 def assign_votes(party_list, split_electionday, num_votes):
     outlist = [0,0,0,0,0]
@@ -61,8 +61,10 @@ num_ballots_absentee = [int(UNCOUNTED_BALLOTS*i)
                         for i in frac_ballots_electionday]
 
 for i in range(len(districts)):
+    iwinner = max(range(len(vote_parties_electionday[i])),key = vote_parties_electionday[i].__getitem__)
     out_list = assign_votes(parties, vote_parties_electionday[i],
                             num_ballots_absentee[i])
-    if out_list.count(0) != 4:
-        print(districts[i],vote_parties_electionday[i],
-              num_ballots_absentee[i], out_list)
+    new_winner = max(range(len(out_list)),key = out_list.__getitem__)
+    if out_list[iwinner] != NUM_TRIALS:
+        print(districts[i],'('+parties[iwinner]+'->'+parties[new_winner]+')',
+              (NUM_TRIALS-out_list[iwinner])/NUM_TRIALS)
