@@ -1,4 +1,4 @@
-# import requests
+import requests
 from bs4 import BeautifulSoup
 import locale
 import random
@@ -11,7 +11,7 @@ logging.basicConfig(format='%(asctime)s %(message)s',
                     level=logging.INFO)
 
 UNCOUNTED_BALLOTS = 600000  # absentee/mail-in ballots, est. from Elections BC
-NUM_TRIALS = 1000  # number of trials per electoral district
+NUM_TRIALS = 2000  # number of trials per electoral district
 BIAS = [-0.1, -0.09, -0.08, -0.07, -0.06, -0.05, -0.04, -0.03, -0.02, -0.01,
         0, 0.01, 0.02, 0.03, 0.04, 0.05, 0.06, 0.07, 0.08, 0.09, 0.1]
 # bias (+ is toward BC Libs, - is toward BC NDP)
@@ -37,18 +37,18 @@ def assign_votes(party_list, split_electionday, num_votes, party_bias=0):
 
 
 # use live results -- copy these to stop hammering Elections BC ---------------
-# page = requests.get('https://electionsbcenr.blob.core.windows.net/'
-#                     'electionsbcenr/GE-2020-10-24_Party.html')
-# with open('./datafile','w') as fwrite:
-#     fwrite.write(page.text)
-# soup = BeautifulSoup(page.text,'html.parser')
+page = requests.get('https://electionsbcenr.blob.core.windows.net/'
+                    'electionsbcenr/GE-2020-10-24_Party.html')
+with open('./datafile', 'w') as fwrite:
+    fwrite.write(page.text)
+soup = BeautifulSoup(page.text, 'html.parser')
 # -----------------------------------------------------------------------------
 
 # use cached results ----------------------------------------------------------
-with open('./data/datafile', 'r') as fread:
-    pagetext = fread.read()
-
-soup = BeautifulSoup(pagetext, 'html.parser')
+# with open('./data/datafile', 'r') as fread:
+#     pagetext = fread.read()
+#
+# soup = BeautifulSoup(pagetext, 'html.parser')
 # -----------------------------------------------------------------------------
 
 headers = [i.get_text() for i in soup.find('thead').find_all('th')]
@@ -71,7 +71,7 @@ num_ballots_absentee = [int(UNCOUNTED_BALLOTS*i)
 f = open('output.txt', 'w')
 
 print('bias', 'electoral_district', 'election_night_leader', 'final_winner',
-      'flip_prob', 'prob_lib', 'prob_ndp', 'prob_grn', 'prob_lbn',
+      'prob_winner', 'prob_lib', 'prob_ndp', 'prob_grn', 'prob_lbn',
       'prob_other', sep='\t', file=f)  # hard-code the header row
 
 for ibias in BIAS:
@@ -83,8 +83,8 @@ for ibias in BIAS:
                                 num_ballots_absentee[i], ibias)
         new_winner = max(range(len(out_list)), key=out_list.__getitem__)
         print(ibias, districts[i], parties[iwinner], parties[new_winner],
-              (NUM_TRIALS-out_list[iwinner])/NUM_TRIALS,
+              out_list[new_winner]/NUM_TRIALS,
               out_list[0]/NUM_TRIALS, out_list[1]/NUM_TRIALS,
               out_list[2]/NUM_TRIALS, out_list[3]/NUM_TRIALS,
               out_list[4]/NUM_TRIALS,
-              sep='\t', file=f)
+              sep='\t', file=f, flush=True)
