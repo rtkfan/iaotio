@@ -1,6 +1,8 @@
 # iaotio (it ain't over 'til it's over)
 Sensitivity analysis on absentee/mail-in ballots for 2020 British Columbia provincial election
 
+View the results [on my Tableau Public profile](https://public.tableau.com/profile/matt.lam)
+
 Due to COVID-19, there was a historically large number of absentee and mail-in ballots in the 2020 BC provincial election. Much has been made (by pundits and candidates, often on the 'losing' side) that this might materially affect the election results.
 
 If we assume that the distribution of ballots is the same percentage-wise as on Election Day, then this is only true if the election-day result was a tight race, and if there were a large number of absentee/mail-in ballots. Problem is, the larger the number of the latter, then by the [law of large numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers) it follows that the results will tend to the election-day average anyway.
